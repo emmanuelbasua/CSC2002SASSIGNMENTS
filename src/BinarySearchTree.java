@@ -32,7 +32,10 @@ public class BinarySearchTree<dataType extends Comparable<? super dataType>> ext
                Scanner scan = new Scanner(file);
 
                while (scan.hasNextLine()) {
-                  tree.insert(scan.nextLine());
+                  String line = scan.nextLine().trim();
+                  if (!line.isEmpty()) {
+                     tree.insert(line);
+                  }
                }
                scan.close();
                System.out.println("Knowledge base loaded successfully.");
@@ -83,11 +86,11 @@ public class BinarySearchTree<dataType extends Comparable<? super dataType>> ext
                String sentence2 = scn.nextLine();
                if (tree.find(term3) != null && tree.findSentence(sentence2) !=null) {
                   System.out.println("The statement was found and has a confidence score of "
-                          + tree.findSentence(sentence2).data.toString()
-                          .substring(tree.findSentence(sentence2).data.toString()
-                                          .indexOf(tree.findSentence(sentence2).data.toString()
-                                                  .replaceAll("^[^0-9]*", "").charAt(0)),
-                                  tree.findSentence(sentence2).data.toString().length()));
+                          + tree.findSentence(sentence2).data
+                          .substring(tree.findSentence(sentence2).data
+                                          .indexOf(tree.findSentence(sentence2).data
+                                                  .replaceAll("^[^0-9]*", "").charAt(0))
+                          ));
                   break;
                }
                break;
