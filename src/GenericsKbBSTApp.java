@@ -4,9 +4,14 @@
 
 import java.io.*;
 import java.util.Scanner;
-
+/**
+ * The GenericskbBSTApp class that contains the data storage into a binary search tree and user interface of the app.
+ */
 public class GenericsKbBSTApp<dataType extends Comparable<? super dataType>> extends BinaryTree<dataType> {
-
+   /**
+    * @param args an array of parameters of the same type
+    * @throws FileNotFoundException Throws exception if there is a runtime error
+    */
    public static void main(String[] args) throws FileNotFoundException {
       GenericsKbBSTApp<String> tree = new GenericsKbBSTApp<>(); // Create a binary search tree for strings
       Scanner scn = new Scanner(System.in); // Scanner for user input
@@ -140,7 +145,7 @@ public class GenericsKbBSTApp<dataType extends Comparable<? super dataType>> ext
 
    /**
     *
-    * @param d
+    * @param d The term to be inserted into the BST
     */
    // Insert method - compare strings using compareTo to maintain BST property
    public void insert(dataType d) {
@@ -152,8 +157,8 @@ public class GenericsKbBSTApp<dataType extends Comparable<? super dataType>> ext
 
    /**
     *
-    * @param d
-    * @param node
+    * @param d The term to be inserted into the BST
+    * @param node The current node in the BST
     */
    public void insert(dataType d, BinaryTreeNode<dataType> node) {
       // Extract the term from the data
@@ -178,8 +183,8 @@ public class GenericsKbBSTApp<dataType extends Comparable<? super dataType>> ext
 
    /**
     *
-    * @param d
-    * @return
+    * @param d The term being searched for
+    * @return Returns the node if the term is found
     */
    // Find method - compare strings using compareTo
    public BinaryTreeNode<dataType> find(dataType d) {
@@ -188,9 +193,9 @@ public class GenericsKbBSTApp<dataType extends Comparable<? super dataType>> ext
 
    /**
     *
-    * @param d
-    * @param node
-    * @return
+    * @param d The term being searched for
+    * @param node The current node in the BST
+    * @return Returns the node if the term is found
     */
    public BinaryTreeNode<dataType> find(dataType d, BinaryTreeNode<dataType> node) {
       if (node == null)
@@ -214,8 +219,8 @@ public class GenericsKbBSTApp<dataType extends Comparable<? super dataType>> ext
 
    /**
     *
-    * @param d
-    * @return
+    * @param d The term being searched for
+    * @return Returns the node if the term is found
     */
    // Find partial matches
    public boolean findPartial(dataType d) {
@@ -224,9 +229,9 @@ public class GenericsKbBSTApp<dataType extends Comparable<? super dataType>> ext
 
    /**
     *
-    * @param d
-    * @param node
-    * @return
+    * @param d The term being searched for
+    * @param node The current node in the BST
+    * @return Returns the node if the term is found
     */
    public boolean findPartial(dataType d, BinaryTreeNode<dataType> node) {
       if (node == null) {

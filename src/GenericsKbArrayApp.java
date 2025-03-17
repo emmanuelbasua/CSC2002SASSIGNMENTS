@@ -5,7 +5,7 @@ import java.io.*;
 import java.util.Scanner;
 
 /**
- * The GenericskbArrayApp class that contains the data storage and user interface of the app.
+ * The GenericskbArrayApp class that contains the data storage into an array and user interface of the app.
  */
 public class GenericsKbArrayApp {
     /**
