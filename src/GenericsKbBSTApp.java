@@ -258,8 +258,8 @@ public class GenericsKbBSTApp<dataType extends Comparable<? super dataType>> ext
 
    /**
     *
-    * @param d
-    * @return
+    * @param d The statement being searched for
+    * @return Returns the node if the statement is found
     */
    // Find sentence method
    public BinaryTreeNode<dataType> findSentence(dataType d) {
@@ -268,9 +268,9 @@ public class GenericsKbBSTApp<dataType extends Comparable<? super dataType>> ext
 
    /**
     *
-    * @param d
-    * @param node
-    * @return
+    * @param d The statement being searched for
+    * @param node The current node in the BST
+    * @return Returns the node if the statement is found
     */
    public BinaryTreeNode<dataType> findSentence(dataType d, BinaryTreeNode<dataType> node) {
       if (node == null)

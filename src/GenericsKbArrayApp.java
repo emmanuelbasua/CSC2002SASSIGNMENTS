@@ -4,8 +4,14 @@
 import java.io.*;
 import java.util.Scanner;
 
-
+/**
+ * The GenericskbArrayApp class that contains the data storage and user interface of the app.
+ */
 public class GenericsKbArrayApp {
+    /**
+     * @param args an array of parameters of the same type
+     * @throws FileNotFoundException Throws exception if there is a runtime error
+     */
     public static void main(String[] args) throws FileNotFoundException {
         String[] database = new String[50000]; // Array to store the knowledge base (max 50,000 entries)
         Scanner scnr = new Scanner(System.in); // Scanner to read user input from the console
@@ -144,9 +150,9 @@ public class GenericsKbArrayApp {
 
     /**
      *
-     * @param key
-     * @param database
-     * @return
+     * @param key The term being searched for
+     * @param database The array data structure containing the term statement data
+     * @return returns a boolean
      */
     // Method to check if a term exists in the database
     public static boolean find(String key, String[] database) {
@@ -165,9 +171,9 @@ public class GenericsKbArrayApp {
 
     /**
      *
-     * @param key
-     * @param database
-     * @return
+     * @param key The term being searched for
+     * @param database The array data structure containing the term statement data
+     * @return returns a boolean
      */
     // Method to check for partial matches of a term in the database
     public static boolean findPartial(String key, String[] database) {
@@ -190,18 +196,18 @@ public class GenericsKbArrayApp {
 
     /**
      *
-     * @param key
-     * @param word
-     * @param database
-     * @return
+     * @param key The term being searched for
+     * @param definition The statement being searched for
+     * @param database The array data structure containing the term statement data
+     * @return returns a boolean
      */
     // Method to check if a specific statement exists for a given term
-    public static boolean findStatement(String key, String word, String[] database) {
+    public static boolean findStatement(String key, String definition, String[] database) {
         for (String s : database) {
             if (s != null) { // Skip null entries
                 // Extract the term from the database entry
                 String exact = s.replaceAll("[A-Z].*", "").trim(); // Remove non-alphabetic prefixes
-                if (word.toLowerCase().trim().matches(".*" + "\\b" + exact + "\\b" + ".*")) {
+                if (definition.toLowerCase().trim().matches(".*" + "\\b" + exact + "\\b" + ".*")) {
                     // Check if the search term matches the database term
                     if (s.toLowerCase().contains(key.toLowerCase())) {
                         // Check if the statement contains the search sentence
@@ -215,10 +221,10 @@ public class GenericsKbArrayApp {
 
     /**
      *
-     * @param key
-     * @param definition
-     * @param confidence
-     * @param database
+     * @param key The term being updated
+     * @param definition The statement being updated
+     * @param confidence The confidence score of the term and statement combination
+     * @param database The array data structure containing the term statement data
      */
     // Method to update a term's statement and confidence score in the database
     public static void update(String key, String definition, String confidence, String[] database) {
@@ -238,9 +244,9 @@ public class GenericsKbArrayApp {
 
     /**
      *
-     * @param key
-     * @param database
-     * @return
+     * @param key The term being searched for
+     * @param database The array data structure containing the term statement data
+     * @return returns a boolean
      */
     // Method to retrieve and return a term's statement from the database
     public static String print(String key, String[] database) {
@@ -259,8 +265,8 @@ public class GenericsKbArrayApp {
 
     /**
      *
-     * @param key
-     * @param database
+     * @param key The term being searched for
+     * @param database The array data structure containing the term statement data
      */
     // Method to print all partial matches for a given term
     public static void printPartial(String key, String[] database) {
