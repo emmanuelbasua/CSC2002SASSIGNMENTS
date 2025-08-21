@@ -87,7 +87,7 @@ class DungeonHunterParallel {
             if (randomSeed < 0) {
                 throw new IllegalArgumentException("Random seed must be non-negative.");
             } else if (randomSeed > 0) {
-                rand = new Random(randomSeed);  // BUG FIX
+                rand = new Random(randomSeed);
             }
         } catch (NumberFormatException e) {
             System.err.println("Error: All arguments must be numeric.");
