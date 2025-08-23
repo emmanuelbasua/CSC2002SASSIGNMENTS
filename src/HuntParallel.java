@@ -4,7 +4,7 @@
  * Parallel version of Hunt class for the Dungeon Hunter assignment.
  * Represents a search in the grid of a DungeonMapParallel to identify the local maximum from a start point.
  *
- * M. Kuttel 2025
+ * Emmanuel Basua 2025
  */
 
 public class HuntParallel {

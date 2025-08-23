@@ -3,8 +3,8 @@
  *
  * Optimized parallel version that removes synchronization completely
  * Allows race conditions and duplicate calculations for better performance
- */
-
+* Emmanuel Basua 2025
+ * */
 import java.util.Random;
 import javax.imageio.ImageIO;
 import java.awt.Color;

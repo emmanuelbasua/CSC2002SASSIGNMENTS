@@ -1,0 +1,857 @@
+[
+  {
+    "grid_size": 50,
+    "num_searches_factor": 0.3,
+    "random_seed": 3,
+    "avg_time": 29.0,
+    "std_time": 4.358898943540674,
+    "times": [
+      34.0,
+      26.0,
+      27.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 151776,
+      "mana": 101055,
+      "x": 22.4,
+      "y": -44.6
+    },
+    "output": "\t dungeon size: 50,\n\t rows: 500, columns: 500\n\t x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]\n\t Number searches: 15000\n\n\t time: 34 ms\n\tnumber dungeon grid points evaluated: 151776  (61%)\nDungeon Master (mana 101055) found at:  x=22.4 y=-44.6\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 50,
+    "num_searches_factor": 0.3,
+    "random_seed": 60,
+    "avg_time": 28.0,
+    "std_time": 4.358898943540674,
+    "times": [
+      26.0,
+      33.0,
+      25.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 145506,
+      "mana": 112568,
+      "x": 19.0,
+      "y": 49.2
+    },
+    "output": "\t dungeon size: 50,\n\t rows: 500, columns: 500\n\t x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]\n\t Number searches: 15000\n\n\t time: 26 ms\n\tnumber dungeon grid points evaluated: 145506  (58%)\nDungeon Master (mana 112568) found at:  x=19.0 y=49.2\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 50,
+    "num_searches_factor": 0.3,
+    "random_seed": 141,
+    "avg_time": 29.333333333333332,
+    "std_time": 6.110100926607787,
+    "times": [
+      24.0,
+      28.0,
+      36.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 130242,
+      "mana": 107800,
+      "x": 25.2,
+      "y": 23.2
+    },
+    "output": "\t dungeon size: 50,\n\t rows: 500, columns: 500\n\t x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]\n\t Number searches: 15000\n\n\t time: 24 ms\n\tnumber dungeon grid points evaluated: 130242  (52%)\nDungeon Master (mana 107800) found at:  x=25.2 y=23.2\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 50,
+    "num_searches_factor": 0.5,
+    "random_seed": 3,
+    "avg_time": 38.666666666666664,
+    "std_time": 8.020806277010642,
+    "times": [
+      38.0,
+      47.0,
+      31.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 170857,
+      "mana": 101967,
+      "x": 22.2,
+      "y": -45.0
+    },
+    "output": "\t dungeon size: 50,\n\t rows: 500, columns: 500\n\t x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]\n\t Number searches: 25000\n\n\t time: 38 ms\n\tnumber dungeon grid points evaluated: 170857  (68%)\nDungeon Master (mana 101967) found at:  x=22.2 y=-45.0\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 50,
+    "num_searches_factor": 0.5,
+    "random_seed": 60,
+    "avg_time": 30.666666666666668,
+    "std_time": 1.1547005383792515,
+    "times": [
+      30.0,
+      30.0,
+      32.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 163604,
+      "mana": 112568,
+      "x": 19.0,
+      "y": 49.2
+    },
+    "output": "\t dungeon size: 50,\n\t rows: 500, columns: 500\n\t x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]\n\t Number searches: 25000\n\n\t time: 30 ms\n\tnumber dungeon grid points evaluated: 163604  (65%)\nDungeon Master (mana 112568) found at:  x=19.0 y=49.2\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 50,
+    "num_searches_factor": 0.5,
+    "random_seed": 141,
+    "avg_time": 40.0,
+    "std_time": 9.539392014169456,
+    "times": [
+      45.0,
+      46.0,
+      29.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 157816,
+      "mana": 107800,
+      "x": 25.2,
+      "y": 23.2
+    },
+    "output": "\t dungeon size: 50,\n\t rows: 500, columns: 500\n\t x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]\n\t Number searches: 25000\n\n\t time: 45 ms\n\tnumber dungeon grid points evaluated: 157816  (63%)\nDungeon Master (mana 107800) found at:  x=25.2 y=23.2\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 50,
+    "num_searches_factor": 0.8,
+    "random_seed": 3,
+    "avg_time": 36.666666666666664,
+    "std_time": 4.725815626252609,
+    "times": [
+      35.0,
+      42.0,
+      33.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 162273,
+      "mana": 101967,
+      "x": 22.2,
+      "y": -45.0
+    },
+    "output": "\t dungeon size: 50,\n\t rows: 500, columns: 500\n\t x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]\n\t Number searches: 40000\n\n\t time: 35 ms\n\tnumber dungeon grid points evaluated: 162273  (65%)\nDungeon Master (mana 101967) found at:  x=22.2 y=-45.0\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 50,
+    "num_searches_factor": 0.8,
+    "random_seed": 60,
+    "avg_time": 37.666666666666664,
+    "std_time": 6.110100926607787,
+    "times": [
+      39.0,
+      31.0,
+      43.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 178610,
+      "mana": 113560,
+      "x": 19.2,
+      "y": 48.8
+    },
+    "output": "\t dungeon size: 50,\n\t rows: 500, columns: 500\n\t x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]\n\t Number searches: 40000\n\n\t time: 39 ms\n\tnumber dungeon grid points evaluated: 178610  (71%)\nDungeon Master (mana 113560) found at:  x=19.2 y=48.8\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 50,
+    "num_searches_factor": 0.8,
+    "random_seed": 141,
+    "avg_time": 36.0,
+    "std_time": 0.0,
+    "times": [
+      36.0,
+      36.0,
+      36.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 193318,
+      "mana": 107800,
+      "x": 25.2,
+      "y": 23.2
+    },
+    "output": "\t dungeon size: 50,\n\t rows: 500, columns: 500\n\t x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]\n\t Number searches: 40000\n\n\t time: 36 ms\n\tnumber dungeon grid points evaluated: 193318  (77%)\nDungeon Master (mana 107800) found at:  x=25.2 y=23.2\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 100,
+    "num_searches_factor": 0.3,
+    "random_seed": 3,
+    "avg_time": 57.666666666666664,
+    "std_time": 5.131601439446884,
+    "times": [
+      62.0,
+      52.0,
+      59.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 463175,
+      "mana": 113668,
+      "x": 47.4,
+      "y": -84.2
+    },
+    "output": "\t dungeon size: 100,\n\t rows: 1000, columns: 1000\n\t x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]\n\t Number searches: 60000\n\n\t time: 62 ms\n\tnumber dungeon grid points evaluated: 463175  (46%)\nDungeon Master (mana 113668) found at:  x=47.4 y=-84.2\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 100,
+    "num_searches_factor": 0.3,
+    "random_seed": 60,
+    "avg_time": 51.333333333333336,
+    "std_time": 0.5773502691896257,
+    "times": [
+      52.0,
+      51.0,
+      51.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 473976,
+      "mana": 95752,
+      "x": 44.0,
+      "y": 97.8
+    },
+    "output": "\t dungeon size: 100,\n\t rows: 1000, columns: 1000\n\t x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]\n\t Number searches: 60000\n\n\t time: 52 ms\n\tnumber dungeon grid points evaluated: 473976  (47%)\nDungeon Master (mana 95752) found at:  x=44.0 y=97.8\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 100,
+    "num_searches_factor": 0.3,
+    "random_seed": 141,
+    "avg_time": 48.666666666666664,
+    "std_time": 0.5773502691896257,
+    "times": [
+      49.0,
+      48.0,
+      49.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 454780,
+      "mana": 118446,
+      "x": 44.4,
+      "y": 49.4
+    },
+    "output": "\t dungeon size: 100,\n\t rows: 1000, columns: 1000\n\t x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]\n\t Number searches: 60000\n\n\t time: 49 ms\n\tnumber dungeon grid points evaluated: 454780  (45%)\nDungeon Master (mana 118446) found at:  x=44.4 y=49.4\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 100,
+    "num_searches_factor": 0.5,
+    "random_seed": 3,
+    "avg_time": 63.666666666666664,
+    "std_time": 2.516611478423583,
+    "times": [
+      66.0,
+      64.0,
+      61.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 581403,
+      "mana": 113668,
+      "x": 47.4,
+      "y": -84.2
+    },
+    "output": "\t dungeon size: 100,\n\t rows: 1000, columns: 1000\n\t x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]\n\t Number searches: 100000\n\n\t time: 66 ms\n\tnumber dungeon grid points evaluated: 581403  (58%)\nDungeon Master (mana 113668) found at:  x=47.4 y=-84.2\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 100,
+    "num_searches_factor": 0.5,
+    "random_seed": 60,
+    "avg_time": 62.333333333333336,
+    "std_time": 2.309401076758503,
+    "times": [
+      61.0,
+      61.0,
+      65.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 535278,
+      "mana": 95752,
+      "x": 44.0,
+      "y": 97.8
+    },
+    "output": "\t dungeon size: 100,\n\t rows: 1000, columns: 1000\n\t x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]\n\t Number searches: 100000\n\n\t time: 61 ms\n\tnumber dungeon grid points evaluated: 535278  (54%)\nDungeon Master (mana 95752) found at:  x=44.0 y=97.8\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 100,
+    "num_searches_factor": 0.5,
+    "random_seed": 141,
+    "avg_time": 60.333333333333336,
+    "std_time": 2.0816659994661326,
+    "times": [
+      58.0,
+      62.0,
+      61.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 542243,
+      "mana": 118446,
+      "x": 44.4,
+      "y": 49.4
+    },
+    "output": "\t dungeon size: 100,\n\t rows: 1000, columns: 1000\n\t x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]\n\t Number searches: 100000\n\n\t time: 58 ms\n\tnumber dungeon grid points evaluated: 542243  (54%)\nDungeon Master (mana 118446) found at:  x=44.4 y=49.4\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 100,
+    "num_searches_factor": 0.8,
+    "random_seed": 3,
+    "avg_time": 72.0,
+    "std_time": 2.0,
+    "times": [
+      70.0,
+      72.0,
+      74.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 598583,
+      "mana": 113668,
+      "x": 47.4,
+      "y": -84.2
+    },
+    "output": "\t dungeon size: 100,\n\t rows: 1000, columns: 1000\n\t x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]\n\t Number searches: 160000\n\n\t time: 70 ms\n\tnumber dungeon grid points evaluated: 598583  (60%)\nDungeon Master (mana 113668) found at:  x=47.4 y=-84.2\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 100,
+    "num_searches_factor": 0.8,
+    "random_seed": 60,
+    "avg_time": 81.0,
+    "std_time": 9.539392014169456,
+    "times": [
+      75.0,
+      76.0,
+      92.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 672585,
+      "mana": 95752,
+      "x": 44.0,
+      "y": 97.8
+    },
+    "output": "\t dungeon size: 100,\n\t rows: 1000, columns: 1000\n\t x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]\n\t Number searches: 160000\n\n\t time: 75 ms\n\tnumber dungeon grid points evaluated: 672585  (67%)\nDungeon Master (mana 95752) found at:  x=44.0 y=97.8\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 100,
+    "num_searches_factor": 0.8,
+    "random_seed": 141,
+    "avg_time": 67.33333333333333,
+    "std_time": 2.0816659994661326,
+    "times": [
+      69.0,
+      68.0,
+      65.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 637683,
+      "mana": 118446,
+      "x": 44.4,
+      "y": 49.4
+    },
+    "output": "\t dungeon size: 100,\n\t rows: 1000, columns: 1000\n\t x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]\n\t Number searches: 160000\n\n\t time: 69 ms\n\tnumber dungeon grid points evaluated: 637683  (64%)\nDungeon Master (mana 118446) found at:  x=44.4 y=49.4\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 150,
+    "num_searches_factor": 0.3,
+    "random_seed": 3,
+    "avg_time": 90.0,
+    "std_time": 7.0,
+    "times": [
+      95.0,
+      82.0,
+      93.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 1124239,
+      "mana": 115725,
+      "x": 69.2,
+      "y": -128.8
+    },
+    "output": "\t dungeon size: 150,\n\t rows: 1500, columns: 1500\n\t x: [-150.000000, 150.000000], y: [-150.000000, 150.000000]\n\t Number searches: 135000\n\n\t time: 95 ms\n\tnumber dungeon grid points evaluated: 1124239  (50%)\nDungeon Master (mana 115725) found at:  x=69.2 y=-128.8\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 150,
+    "num_searches_factor": 0.3,
+    "random_seed": 60,
+    "avg_time": 93.33333333333333,
+    "std_time": 13.576941236277534,
+    "times": [
+      85.0,
+      86.0,
+      109.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 1061872,
+      "mana": 110146,
+      "x": 69.2,
+      "y": 149.0
+    },
+    "output": "\t dungeon size: 150,\n\t rows: 1500, columns: 1500\n\t x: [-150.000000, 150.000000], y: [-150.000000, 150.000000]\n\t Number searches: 135000\n\n\t time: 85 ms\n\tnumber dungeon grid points evaluated: 1061872  (47%)\nDungeon Master (mana 110146) found at:  x=69.2 y=149.0\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 150,
+    "num_searches_factor": 0.3,
+    "random_seed": 141,
+    "avg_time": 95.66666666666667,
+    "std_time": 9.073771725877465,
+    "times": [
+      104.0,
+      97.0,
+      86.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 1157440,
+      "mana": 96861,
+      "x": 69.4,
+      "y": 73.6
+    },
+    "output": "\t dungeon size: 150,\n\t rows: 1500, columns: 1500\n\t x: [-150.000000, 150.000000], y: [-150.000000, 150.000000]\n\t Number searches: 135000\n\n\t time: 104 ms\n\tnumber dungeon grid points evaluated: 1157440  (51%)\nDungeon Master (mana 96861) found at:  x=69.4 y=73.6\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 150,
+    "num_searches_factor": 0.5,
+    "random_seed": 3,
+    "avg_time": 112.66666666666667,
+    "std_time": 14.011899704655802,
+    "times": [
+      127.0,
+      112.0,
+      99.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 1210005,
+      "mana": 115725,
+      "x": 69.2,
+      "y": -128.8
+    },
+    "output": "\t dungeon size: 150,\n\t rows: 1500, columns: 1500\n\t x: [-150.000000, 150.000000], y: [-150.000000, 150.000000]\n\t Number searches: 225000\n\n\t time: 127 ms\n\tnumber dungeon grid points evaluated: 1210005  (54%)\nDungeon Master (mana 115725) found at:  x=69.2 y=-128.8\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 150,
+    "num_searches_factor": 0.5,
+    "random_seed": 60,
+    "avg_time": 117.0,
+    "std_time": 10.583005244258363,
+    "times": [
+      129.0,
+      109.0,
+      113.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 1324836,
+      "mana": 110146,
+      "x": 69.2,
+      "y": 149.0
+    },
+    "output": "\t dungeon size: 150,\n\t rows: 1500, columns: 1500\n\t x: [-150.000000, 150.000000], y: [-150.000000, 150.000000]\n\t Number searches: 225000\n\n\t time: 129 ms\n\tnumber dungeon grid points evaluated: 1324836  (59%)\nDungeon Master (mana 110146) found at:  x=69.2 y=149.0\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 150,
+    "num_searches_factor": 0.5,
+    "random_seed": 141,
+    "avg_time": 123.33333333333333,
+    "std_time": 6.506407098647712,
+    "times": [
+      130.0,
+      117.0,
+      123.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 1282060,
+      "mana": 96861,
+      "x": 69.4,
+      "y": 73.6
+    },
+    "output": "\t dungeon size: 150,\n\t rows: 1500, columns: 1500\n\t x: [-150.000000, 150.000000], y: [-150.000000, 150.000000]\n\t Number searches: 225000\n\n\t time: 130 ms\n\tnumber dungeon grid points evaluated: 1282060  (57%)\nDungeon Master (mana 96861) found at:  x=69.4 y=73.6\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 150,
+    "num_searches_factor": 0.8,
+    "random_seed": 3,
+    "avg_time": 146.66666666666666,
+    "std_time": 14.153915830374764,
+    "times": [
+      138.0,
+      139.0,
+      163.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 1387518,
+      "mana": 115725,
+      "x": 69.2,
+      "y": -128.8
+    },
+    "output": "\t dungeon size: 150,\n\t rows: 1500, columns: 1500\n\t x: [-150.000000, 150.000000], y: [-150.000000, 150.000000]\n\t Number searches: 360000\n\n\t time: 138 ms\n\tnumber dungeon grid points evaluated: 1387518  (62%)\nDungeon Master (mana 115725) found at:  x=69.2 y=-128.8\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 150,
+    "num_searches_factor": 0.8,
+    "random_seed": 60,
+    "avg_time": 157.33333333333334,
+    "std_time": 19.629909152447276,
+    "times": [
+      146.0,
+      180.0,
+      146.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 1391802,
+      "mana": 110146,
+      "x": 69.2,
+      "y": 149.0
+    },
+    "output": "\t dungeon size: 150,\n\t rows: 1500, columns: 1500\n\t x: [-150.000000, 150.000000], y: [-150.000000, 150.000000]\n\t Number searches: 360000\n\n\t time: 146 ms\n\tnumber dungeon grid points evaluated: 1391802  (62%)\nDungeon Master (mana 110146) found at:  x=69.2 y=149.0\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 150,
+    "num_searches_factor": 0.8,
+    "random_seed": 141,
+    "avg_time": 145.33333333333334,
+    "std_time": 5.507570547286102,
+    "times": [
+      140.0,
+      145.0,
+      151.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 1376050,
+      "mana": 96861,
+      "x": 69.4,
+      "y": 73.6
+    },
+    "output": "\t dungeon size: 150,\n\t rows: 1500, columns: 1500\n\t x: [-150.000000, 150.000000], y: [-150.000000, 150.000000]\n\t Number searches: 360000\n\n\t time: 140 ms\n\tnumber dungeon grid points evaluated: 1376050  (61%)\nDungeon Master (mana 96861) found at:  x=69.4 y=73.6\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 275,
+    "num_searches_factor": 0.3,
+    "random_seed": 3,
+    "avg_time": 248.33333333333334,
+    "std_time": 13.279056191361393,
+    "times": [
+      256.0,
+      256.0,
+      233.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 3668339,
+      "mana": 99567,
+      "x": 128.2,
+      "y": -234.6
+    },
+    "output": "\t dungeon size: 275,\n\t rows: 2750, columns: 2750\n\t x: [-275.000000, 275.000000], y: [-275.000000, 275.000000]\n\t Number searches: 453750\n\n\t time: 256 ms\n\tnumber dungeon grid points evaluated: 3668339  (49%)\nDungeon Master (mana 99567) found at:  x=128.2 y=-234.6\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 275,
+    "num_searches_factor": 0.3,
+    "random_seed": 60,
+    "avg_time": 248.0,
+    "std_time": 22.60530911091463,
+    "times": [
+      274.0,
+      233.0,
+      237.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 3944706,
+      "mana": 97465,
+      "x": 128.4,
+      "y": 268.8
+    },
+    "output": "\t dungeon size: 275,\n\t rows: 2750, columns: 2750\n\t x: [-275.000000, 275.000000], y: [-275.000000, 275.000000]\n\t Number searches: 453750\n\n\t time: 274 ms\n\tnumber dungeon grid points evaluated: 3944706  (52%)\nDungeon Master (mana 97465) found at:  x=128.4 y=268.8\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 275,
+    "num_searches_factor": 0.3,
+    "random_seed": 141,
+    "avg_time": 249.0,
+    "std_time": 2.0,
+    "times": [
+      251.0,
+      247.0,
+      249.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 3477325,
+      "mana": 99993,
+      "x": 132.0,
+      "y": 135.8
+    },
+    "output": "\t dungeon size: 275,\n\t rows: 2750, columns: 2750\n\t x: [-275.000000, 275.000000], y: [-275.000000, 275.000000]\n\t Number searches: 453750\n\n\t time: 251 ms\n\tnumber dungeon grid points evaluated: 3477325  (46%)\nDungeon Master (mana 99993) found at:  x=132.0 y=135.8\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 275,
+    "num_searches_factor": 0.5,
+    "random_seed": 3,
+    "avg_time": 297.6666666666667,
+    "std_time": 8.621678104251709,
+    "times": [
+      290.0,
+      296.0,
+      307.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 3995490,
+      "mana": 99567,
+      "x": 128.2,
+      "y": -234.6
+    },
+    "output": "\t dungeon size: 275,\n\t rows: 2750, columns: 2750\n\t x: [-275.000000, 275.000000], y: [-275.000000, 275.000000]\n\t Number searches: 756250\n\n\t time: 290 ms\n\tnumber dungeon grid points evaluated: 3995490  (53%)\nDungeon Master (mana 99567) found at:  x=128.2 y=-234.6\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 275,
+    "num_searches_factor": 0.5,
+    "random_seed": 60,
+    "avg_time": 308.6666666666667,
+    "std_time": 42.922410618851934,
+    "times": [
+      294.0,
+      357.0,
+      275.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 4114405,
+      "mana": 97465,
+      "x": 128.4,
+      "y": 268.8
+    },
+    "output": "\t dungeon size: 275,\n\t rows: 2750, columns: 2750\n\t x: [-275.000000, 275.000000], y: [-275.000000, 275.000000]\n\t Number searches: 756250\n\n\t time: 294 ms\n\tnumber dungeon grid points evaluated: 4114405  (54%)\nDungeon Master (mana 97465) found at:  x=128.4 y=268.8\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 275,
+    "num_searches_factor": 0.5,
+    "random_seed": 141,
+    "avg_time": 281.0,
+    "std_time": 6.082762530298219,
+    "times": [
+      277.0,
+      278.0,
+      288.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 4092447,
+      "mana": 99993,
+      "x": 132.0,
+      "y": 135.8
+    },
+    "output": "\t dungeon size: 275,\n\t rows: 2750, columns: 2750\n\t x: [-275.000000, 275.000000], y: [-275.000000, 275.000000]\n\t Number searches: 756250\n\n\t time: 277 ms\n\tnumber dungeon grid points evaluated: 4092447  (54%)\nDungeon Master (mana 99993) found at:  x=132.0 y=135.8\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 275,
+    "num_searches_factor": 0.8,
+    "random_seed": 3,
+    "avg_time": 346.6666666666667,
+    "std_time": 27.5922694487665,
+    "times": [
+      326.0,
+      378.0,
+      336.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 4429053,
+      "mana": 99567,
+      "x": 128.2,
+      "y": -234.6
+    },
+    "output": "\t dungeon size: 275,\n\t rows: 2750, columns: 2750\n\t x: [-275.000000, 275.000000], y: [-275.000000, 275.000000]\n\t Number searches: 1210000\n\n\t time: 326 ms\n\tnumber dungeon grid points evaluated: 4429053  (59%)\nDungeon Master (mana 99567) found at:  x=128.2 y=-234.6\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 275,
+    "num_searches_factor": 0.8,
+    "random_seed": 60,
+    "avg_time": 345.3333333333333,
+    "std_time": 23.00724523564986,
+    "times": [
+      322.0,
+      368.0,
+      346.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 4342363,
+      "mana": 97465,
+      "x": 128.4,
+      "y": 268.8
+    },
+    "output": "\t dungeon size: 275,\n\t rows: 2750, columns: 2750\n\t x: [-275.000000, 275.000000], y: [-275.000000, 275.000000]\n\t Number searches: 1210000\n\n\t time: 322 ms\n\tnumber dungeon grid points evaluated: 4342363  (57%)\nDungeon Master (mana 97465) found at:  x=128.4 y=268.8\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 275,
+    "num_searches_factor": 0.8,
+    "random_seed": 141,
+    "avg_time": 350.6666666666667,
+    "std_time": 38.397048497681865,
+    "times": [
+      329.0,
+      328.0,
+      395.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 4570806,
+      "mana": 99993,
+      "x": 132.0,
+      "y": 135.8
+    },
+    "output": "\t dungeon size: 275,\n\t rows: 2750, columns: 2750\n\t x: [-275.000000, 275.000000], y: [-275.000000, 275.000000]\n\t Number searches: 1210000\n\n\t time: 329 ms\n\tnumber dungeon grid points evaluated: 4570806  (60%)\nDungeon Master (mana 99993) found at:  x=132.0 y=135.8\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 315,
+    "num_searches_factor": 0.3,
+    "random_seed": 3,
+    "avg_time": 290.3333333333333,
+    "std_time": 26.00640946638604,
+    "times": [
+      264.0,
+      316.0,
+      291.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 5274246,
+      "mana": 117606,
+      "x": 147.6,
+      "y": -271.2
+    },
+    "output": "\t dungeon size: 315,\n\t rows: 3150, columns: 3150\n\t x: [-315.000000, 315.000000], y: [-315.000000, 315.000000]\n\t Number searches: 595350\n\n\t time: 264 ms\n\tnumber dungeon grid points evaluated: 5274246  (53%)\nDungeon Master (mana 117606) found at:  x=147.6 y=-271.2\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 315,
+    "num_searches_factor": 0.3,
+    "random_seed": 60,
+    "avg_time": 295.0,
+    "std_time": 6.244997998398398,
+    "times": [
+      293.0,
+      302.0,
+      290.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 4333240,
+      "mana": 106202,
+      "x": 142.0,
+      "y": 306.6
+    },
+    "output": "\t dungeon size: 315,\n\t rows: 3150, columns: 3150\n\t x: [-315.000000, 315.000000], y: [-315.000000, 315.000000]\n\t Number searches: 595350\n\n\t time: 293 ms\n\tnumber dungeon grid points evaluated: 4333240  (44%)\nDungeon Master (mana 106202) found at:  x=142.0 y=306.6\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 315,
+    "num_searches_factor": 0.3,
+    "random_seed": 141,
+    "avg_time": 292.6666666666667,
+    "std_time": 7.371114795831994,
+    "times": [
+      287.0,
+      301.0,
+      290.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 4427738,
+      "mana": 106998,
+      "x": 154.2,
+      "y": 155.2
+    },
+    "output": "\t dungeon size: 315,\n\t rows: 3150, columns: 3150\n\t x: [-315.000000, 315.000000], y: [-315.000000, 315.000000]\n\t Number searches: 595350\n\n\t time: 287 ms\n\tnumber dungeon grid points evaluated: 4427738  (45%)\nDungeon Master (mana 106998) found at:  x=154.2 y=155.2\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 315,
+    "num_searches_factor": 0.5,
+    "random_seed": 3,
+    "avg_time": 378.6666666666667,
+    "std_time": 22.052966542697455,
+    "times": [
+      373.0,
+      360.0,
+      403.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 5213166,
+      "mana": 117606,
+      "x": 147.6,
+      "y": -271.2
+    },
+    "output": "\t dungeon size: 315,\n\t rows: 3150, columns: 3150\n\t x: [-315.000000, 315.000000], y: [-315.000000, 315.000000]\n\t Number searches: 992250\n\n\t time: 373 ms\n\tnumber dungeon grid points evaluated: 5213166  (53%)\nDungeon Master (mana 117606) found at:  x=147.6 y=-271.2\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 315,
+    "num_searches_factor": 0.5,
+    "random_seed": 60,
+    "avg_time": 355.6666666666667,
+    "std_time": 9.814954576223638,
+    "times": [
+      350.0,
+      350.0,
+      367.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 5187915,
+      "mana": 106202,
+      "x": 142.0,
+      "y": 306.6
+    },
+    "output": "\t dungeon size: 315,\n\t rows: 3150, columns: 3150\n\t x: [-315.000000, 315.000000], y: [-315.000000, 315.000000]\n\t Number searches: 992250\n\n\t time: 350 ms\n\tnumber dungeon grid points evaluated: 5187915  (52%)\nDungeon Master (mana 106202) found at:  x=142.0 y=306.6\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 315,
+    "num_searches_factor": 0.5,
+    "random_seed": 141,
+    "avg_time": 357.6666666666667,
+    "std_time": 10.016652800877813,
+    "times": [
+      368.0,
+      357.0,
+      348.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 4988134,
+      "mana": 106998,
+      "x": 154.2,
+      "y": 155.2
+    },
+    "output": "\t dungeon size: 315,\n\t rows: 3150, columns: 3150\n\t x: [-315.000000, 315.000000], y: [-315.000000, 315.000000]\n\t Number searches: 992250\n\n\t time: 368 ms\n\tnumber dungeon grid points evaluated: 4988134  (50%)\nDungeon Master (mana 106998) found at:  x=154.2 y=155.2\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 315,
+    "num_searches_factor": 0.8,
+    "random_seed": 3,
+    "avg_time": 441.0,
+    "std_time": 23.643180835073778,
+    "times": [
+      451.0,
+      414.0,
+      458.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 6011399,
+      "mana": 117606,
+      "x": 147.6,
+      "y": -271.2
+    },
+    "output": "\t dungeon size: 315,\n\t rows: 3150, columns: 3150\n\t x: [-315.000000, 315.000000], y: [-315.000000, 315.000000]\n\t Number searches: 1587600\n\n\t time: 451 ms\n\tnumber dungeon grid points evaluated: 6011399  (61%)\nDungeon Master (mana 117606) found at:  x=147.6 y=-271.2\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 315,
+    "num_searches_factor": 0.8,
+    "random_seed": 60,
+    "avg_time": 436.3333333333333,
+    "std_time": 6.429100507328637,
+    "times": [
+      441.0,
+      429.0,
+      439.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 5614053,
+      "mana": 106202,
+      "x": 142.0,
+      "y": 306.6
+    },
+    "output": "\t dungeon size: 315,\n\t rows: 3150, columns: 3150\n\t x: [-315.000000, 315.000000], y: [-315.000000, 315.000000]\n\t Number searches: 1587600\n\n\t time: 441 ms\n\tnumber dungeon grid points evaluated: 5614053  (57%)\nDungeon Master (mana 106202) found at:  x=142.0 y=306.6\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  },
+  {
+    "grid_size": 315,
+    "num_searches_factor": 0.8,
+    "random_seed": 141,
+    "avg_time": 425.3333333333333,
+    "std_time": 4.163331998932265,
+    "times": [
+      424.0,
+      422.0,
+      430.0
+    ],
+    "solution_info": {
+      "grid_points_evaluated": 5593744,
+      "mana": 106998,
+      "x": 154.2,
+      "y": 155.2
+    },
+    "output": "\t dungeon size: 315,\n\t rows: 3150, columns: 3150\n\t x: [-315.000000, 315.000000], y: [-315.000000, 315.000000]\n\t Number searches: 1587600\n\n\t time: 424 ms\n\tnumber dungeon grid points evaluated: 5593744  (56%)\nDungeon Master (mana 106998) found at:  x=154.2 y=155.2\n\nmap saved to visualiseSearch.png\nmap saved to visualiseSearchPath.png\n"
+  }
+]
