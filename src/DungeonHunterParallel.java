@@ -8,7 +8,7 @@
  * Usage:
  *   java DungeonHunterParallel <gridSize> <numSearches> <randomSeed>
  *
- * Emmanuel Basua
+ * Emmanexiuel Basua
  */
 
 import java.util.Random;
