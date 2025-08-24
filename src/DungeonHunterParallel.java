@@ -15,7 +15,7 @@ import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveAction;
 
 class DungeonSearch extends RecursiveAction {
-    private static final int SEQUENTIAL_CUTOFF = 10; // Adjust based on testing
+    private static final int SEQUENTIAL_CUTOFF = 1600; // Adjust based on testing
 
     private HuntParallel[] searches;
     private int lo, hi;
