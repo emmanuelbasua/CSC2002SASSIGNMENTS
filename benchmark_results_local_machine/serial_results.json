@@ -3,12 +3,12 @@
     "grid_size": 10,
     "num_searches_factor": 0.1,
     "random_seed": 3,
-    "avg_time": 3.6666666666666665,
-    "std_time": 1.1547005383792515,
+    "avg_time": 14.0,
+    "std_time": 9.539392014169456,
     "solution_info": {
       "grid_points_evaluated": 4775,
       "mana": 122768,
-      "x": 3.0,
+      "x": 3.2,
       "y": -7.0
     }
   },
@@ -16,38 +16,38 @@
     "grid_size": 10,
     "num_searches_factor": 0.1,
     "random_seed": 60,
-    "avg_time": 3.0,
-    "std_time": 0.0,
+    "avg_time": 8.0,
+    "std_time": 1.0,
     "solution_info": {
       "grid_points_evaluated": 4577,
       "mana": 109138,
       "x": 6.0,
-      "y": 9.0
+      "y": 9.8
     }
   },
   {
     "grid_size": 10,
     "num_searches_factor": 0.1,
-    "random_seed": 141,
-    "avg_time": 4.333333333333333,
-    "std_time": 1.1547005383792515,
+    "random_seed": 90,
+    "avg_time": 8.666666666666666,
+    "std_time": 1.5275252316519468,
     "solution_info": {
-      "grid_points_evaluated": 4757,
-      "mana": 111353,
-      "x": 3.0,
-      "y": 4.0
+      "grid_points_evaluated": 4804,
+      "mana": 115783,
+      "x": 6.0,
+      "y": -2.8
     }
   },
   {
     "grid_size": 10,
     "num_searches_factor": 1,
     "random_seed": 3,
-    "avg_time": 5.666666666666667,
+    "avg_time": 10.333333333333334,
     "std_time": 0.5773502691896257,
     "solution_info": {
       "grid_points_evaluated": 9610,
       "mana": 122768,
-      "x": 3.0,
+      "x": 3.2,
       "y": -7.0
     }
   },
@@ -55,38 +55,38 @@
     "grid_size": 10,
     "num_searches_factor": 1,
     "random_seed": 60,
-    "avg_time": 6.0,
-    "std_time": 1.0,
+    "avg_time": 9.0,
+    "std_time": 0.0,
     "solution_info": {
       "grid_points_evaluated": 9542,
       "mana": 109138,
       "x": 6.0,
-      "y": 9.0
+      "y": 9.8
     }
   },
   {
     "grid_size": 10,
     "num_searches_factor": 1,
-    "random_seed": 141,
-    "avg_time": 5.666666666666667,
-    "std_time": 0.5773502691896257,
+    "random_seed": 90,
+    "avg_time": 9.0,
+    "std_time": 0.0,
     "solution_info": {
-      "grid_points_evaluated": 9608,
-      "mana": 111353,
-      "x": 3.0,
-      "y": 4.0
+      "grid_points_evaluated": 9618,
+      "mana": 115783,
+      "x": 6.0,
+      "y": -2.8
     }
   },
   {
     "grid_size": 10,
     "num_searches_factor": 3,
     "random_seed": 3,
-    "avg_time": 8.0,
-    "std_time": 1.0,
+    "avg_time": 9.666666666666666,
+    "std_time": 1.1547005383792515,
     "solution_info": {
       "grid_points_evaluated": 9981,
       "mana": 122768,
-      "x": 3.0,
+      "x": 3.2,
       "y": -7.0
     }
   },
@@ -94,38 +94,38 @@
     "grid_size": 10,
     "num_searches_factor": 3,
     "random_seed": 60,
-    "avg_time": 8.333333333333334,
-    "std_time": 1.5275252316519468,
+    "avg_time": 10.333333333333334,
+    "std_time": 0.5773502691896257,
     "solution_info": {
       "grid_points_evaluated": 9988,
       "mana": 109138,
       "x": 6.0,
-      "y": 9.0
+      "y": 9.8
     }
   },
   {
     "grid_size": 10,
     "num_searches_factor": 3,
-    "random_seed": 141,
-    "avg_time": 7.333333333333333,
-    "std_time": 1.5275252316519468,
+    "random_seed": 90,
+    "avg_time": 10.0,
+    "std_time": 0.0,
     "solution_info": {
-      "grid_points_evaluated": 9990,
-      "mana": 111353,
-      "x": 3.0,
-      "y": 4.0
+      "grid_points_evaluated": 9991,
+      "mana": 115783,
+      "x": 6.0,
+      "y": -2.8
     }
   },
   {
     "grid_size": 25,
     "num_searches_factor": 0.1,
     "random_seed": 3,
-    "avg_time": 10.0,
+    "avg_time": 12.0,
     "std_time": 1.0,
     "solution_info": {
       "grid_points_evaluated": 27804,
       "mana": 105837,
-      "x": 15.0,
+      "x": 15.2,
       "y": -21.0
     }
   },
@@ -133,38 +133,38 @@
     "grid_size": 25,
     "num_searches_factor": 0.1,
     "random_seed": 60,
-    "avg_time": 10.666666666666666,
+    "avg_time": 11.666666666666666,
     "std_time": 1.1547005383792515,
     "solution_info": {
       "grid_points_evaluated": 27772,
       "mana": 129904,
-      "x": 12.0,
-      "y": 22.0
+      "x": 12.4,
+      "y": 22.8
     }
   },
   {
     "grid_size": 25,
     "num_searches_factor": 0.1,
-    "random_seed": 141,
+    "random_seed": 90,
     "avg_time": 12.0,
     "std_time": 1.0,
     "solution_info": {
-      "grid_points_evaluated": 27510,
-      "mana": 116983,
-      "x": 12.0,
-      "y": 12.0
+      "grid_points_evaluated": 28338,
+      "mana": 118311,
+      "x": 9.6,
+      "y": -7.2
     }
   },
   {
     "grid_size": 25,
     "num_searches_factor": 1,
     "random_seed": 3,
-    "avg_time": 26.333333333333332,
-    "std_time": 3.2145502536643185,
+    "avg_time": 19.0,
+    "std_time": 1.0,
     "solution_info": {
       "grid_points_evaluated": 59218,
       "mana": 105837,
-      "x": 15.0,
+      "x": 15.2,
       "y": -21.0
     }
   },
@@ -172,38 +172,38 @@
     "grid_size": 25,
     "num_searches_factor": 1,
     "random_seed": 60,
-    "avg_time": 22.666666666666668,
+    "avg_time": 18.666666666666668,
     "std_time": 1.5275252316519468,
     "solution_info": {
       "grid_points_evaluated": 59073,
       "mana": 129904,
-      "x": 12.0,
-      "y": 22.0
+      "x": 12.4,
+      "y": 22.8
     }
   },
   {
     "grid_size": 25,
     "num_searches_factor": 1,
-    "random_seed": 141,
-    "avg_time": 24.666666666666668,
-    "std_time": 2.516611478423583,
+    "random_seed": 90,
+    "avg_time": 18.666666666666668,
+    "std_time": 0.5773502691896257,
     "solution_info": {
-      "grid_points_evaluated": 59148,
-      "mana": 116983,
-      "x": 12.0,
-      "y": 12.0
+      "grid_points_evaluated": 59383,
+      "mana": 118311,
+      "x": 9.6,
+      "y": -7.2
     }
   },
   {
     "grid_size": 25,
     "num_searches_factor": 3,
     "random_seed": 3,
-    "avg_time": 33.666666666666664,
-    "std_time": 5.507570547286102,
+    "avg_time": 24.666666666666668,
+    "std_time": 2.0816659994661326,
     "solution_info": {
       "grid_points_evaluated": 62436,
       "mana": 105837,
-      "x": 15.0,
+      "x": 15.2,
       "y": -21.0
     }
   },
@@ -211,47 +211,47 @@
     "grid_size": 25,
     "num_searches_factor": 3,
     "random_seed": 60,
-    "avg_time": 33.0,
-    "std_time": 8.18535277187245,
+    "avg_time": 24.333333333333332,
+    "std_time": 1.5275252316519468,
     "solution_info": {
       "grid_points_evaluated": 62425,
       "mana": 129904,
-      "x": 12.0,
-      "y": 22.0
+      "x": 12.4,
+      "y": 22.8
     }
   },
   {
     "grid_size": 25,
     "num_searches_factor": 3,
-    "random_seed": 141,
-    "avg_time": 30.333333333333332,
-    "std_time": 2.0816659994661326,
+    "random_seed": 90,
+    "avg_time": 24.0,
+    "std_time": 2.0,
     "solution_info": {
-      "grid_points_evaluated": 62438,
-      "mana": 116983,
-      "x": 12.0,
-      "y": 12.0
+      "grid_points_evaluated": 62433,
+      "mana": 118311,
+      "x": 9.6,
+      "y": -7.2
     }
   },
   {
     "grid_size": 40,
     "num_searches_factor": 0.1,
     "random_seed": 3,
-    "avg_time": 26.666666666666668,
-    "std_time": 4.509249752822894,
+    "avg_time": 19.666666666666668,
+    "std_time": 0.5773502691896257,
     "solution_info": {
       "grid_points_evaluated": 70759,
       "mana": 95839,
-      "x": 21.0,
-      "y": -33.0
+      "x": 21.6,
+      "y": -33.4
     }
   },
   {
     "grid_size": 40,
     "num_searches_factor": 0.1,
     "random_seed": 60,
-    "avg_time": 25.666666666666668,
-    "std_time": 2.309401076758503,
+    "avg_time": 19.333333333333332,
+    "std_time": 1.1547005383792515,
     "solution_info": {
       "grid_points_evaluated": 70686,
       "mana": 109756,
@@ -262,143 +262,143 @@
   {
     "grid_size": 40,
     "num_searches_factor": 0.1,
-    "random_seed": 141,
-    "avg_time": 34.666666666666664,
-    "std_time": 7.637626158259733,
+    "random_seed": 90,
+    "avg_time": 22.333333333333332,
+    "std_time": 1.5275252316519468,
     "solution_info": {
-      "grid_points_evaluated": 71590,
-      "mana": 118745,
-      "x": 15.0,
-      "y": 17.0
+      "grid_points_evaluated": 70312,
+      "mana": 116464,
+      "x": 16.4,
+      "y": -8.8
     }
   },
   {
     "grid_size": 40,
     "num_searches_factor": 1,
     "random_seed": 3,
-    "avg_time": 60.666666666666664,
-    "std_time": 13.428824718989125,
+    "avg_time": 39.0,
+    "std_time": 1.7320508075688772,
     "solution_info": {
       "grid_points_evaluated": 153344,
       "mana": 95839,
-      "x": 21.0,
-      "y": -33.0
+      "x": 21.6,
+      "y": -33.4
     }
   },
   {
     "grid_size": 40,
     "num_searches_factor": 1,
     "random_seed": 60,
-    "avg_time": 62.666666666666664,
-    "std_time": 4.618802153517006,
+    "avg_time": 39.666666666666664,
+    "std_time": 2.309401076758503,
     "solution_info": {
       "grid_points_evaluated": 153513,
       "mana": 109870,
-      "x": 18.0,
-      "y": 38.0
+      "x": 18.4,
+      "y": 38.6
     }
   },
   {
     "grid_size": 40,
     "num_searches_factor": 1,
-    "random_seed": 141,
-    "avg_time": 63.666666666666664,
-    "std_time": 15.044378795195676,
+    "random_seed": 90,
+    "avg_time": 41.0,
+    "std_time": 4.58257569495584,
     "solution_info": {
-      "grid_points_evaluated": 153137,
-      "mana": 118745,
-      "x": 15.0,
-      "y": 17.0
+      "grid_points_evaluated": 153342,
+      "mana": 116464,
+      "x": 16.4,
+      "y": -8.8
     }
   },
   {
     "grid_size": 40,
     "num_searches_factor": 3,
     "random_seed": 3,
-    "avg_time": 77.66666666666667,
-    "std_time": 11.015141094572204,
+    "avg_time": 50.0,
+    "std_time": 3.605551275463989,
     "solution_info": {
       "grid_points_evaluated": 159885,
       "mana": 95839,
-      "x": 21.0,
-      "y": -33.0
+      "x": 21.6,
+      "y": -33.4
     }
   },
   {
     "grid_size": 40,
     "num_searches_factor": 3,
     "random_seed": 60,
-    "avg_time": 101.0,
-    "std_time": 21.37755832643195,
+    "avg_time": 53.0,
+    "std_time": 7.0,
     "solution_info": {
       "grid_points_evaluated": 159879,
       "mana": 110090,
-      "x": 18.0,
-      "y": 38.0
+      "x": 18.6,
+      "y": 38.2
     }
   },
   {
     "grid_size": 40,
     "num_searches_factor": 3,
-    "random_seed": 141,
-    "avg_time": 92.33333333333333,
-    "std_time": 14.6401275039985,
+    "random_seed": 90,
+    "avg_time": 53.333333333333336,
+    "std_time": 1.5275252316519468,
     "solution_info": {
-      "grid_points_evaluated": 159890,
-      "mana": 118745,
-      "x": 15.0,
-      "y": 17.0
+      "grid_points_evaluated": 159889,
+      "mana": 116464,
+      "x": 16.4,
+      "y": -8.8
     }
   },
   {
     "grid_size": 50,
     "num_searches_factor": 0.1,
     "random_seed": 3,
-    "avg_time": 42.666666666666664,
-    "std_time": 4.041451884327381,
+    "avg_time": 27.666666666666668,
+    "std_time": 0.5773502691896257,
     "solution_info": {
       "grid_points_evaluated": 106966,
       "mana": 101055,
-      "x": 22.0,
-      "y": -44.0
+      "x": 22.4,
+      "y": -44.6
     }
   },
   {
     "grid_size": 50,
     "num_searches_factor": 0.1,
     "random_seed": 60,
-    "avg_time": 49.0,
-    "std_time": 11.532562594670797,
+    "avg_time": 25.333333333333332,
+    "std_time": 0.5773502691896257,
     "solution_info": {
       "grid_points_evaluated": 106736,
       "mana": 105439,
-      "x": 18.0,
-      "y": 48.0
+      "x": 18.4,
+      "y": 48.2
     }
   },
   {
     "grid_size": 50,
     "num_searches_factor": 0.1,
-    "random_seed": 141,
-    "avg_time": 37.666666666666664,
-    "std_time": 4.163331998932265,
+    "random_seed": 90,
+    "avg_time": 29.0,
+    "std_time": 5.196152422706632,
     "solution_info": {
-      "grid_points_evaluated": 108150,
-      "mana": 107800,
-      "x": 25.0,
-      "y": 23.0
+      "grid_points_evaluated": 107848,
+      "mana": 105865,
+      "x": 19.2,
+      "y": -12.8
     }
   },
   {
     "grid_size": 50,
     "num_searches_factor": 1,
     "random_seed": 3,
-    "avg_time": 89.0,
-    "std_time": 6.0,
+    "avg_time": 60.666666666666664,
+    "std_time": 3.2145502536643185,
     "solution_info": {
       "grid_points_evaluated": 239438,
       "mana": 101967,
-      "x": 22.0,
+      "x": 22.2,
       "y": -45.0
     }
   },
@@ -406,38 +406,38 @@
     "grid_size": 50,
     "num_searches_factor": 1,
     "random_seed": 60,
-    "avg_time": 124.33333333333333,
-    "std_time": 33.56088993655164,
+    "avg_time": 61.666666666666664,
+    "std_time": 7.234178138070235,
     "solution_info": {
       "grid_points_evaluated": 239753,
       "mana": 113560,
-      "x": 19.0,
-      "y": 48.0
+      "x": 19.2,
+      "y": 48.8
     }
   },
   {
     "grid_size": 50,
     "num_searches_factor": 1,
-    "random_seed": 141,
-    "avg_time": 99.0,
-    "std_time": 10.44030650891055,
+    "random_seed": 90,
+    "avg_time": 62.0,
+    "std_time": 2.0,
     "solution_info": {
-      "grid_points_evaluated": 239746,
-      "mana": 107800,
-      "x": 25.0,
-      "y": 23.0
+      "grid_points_evaluated": 239741,
+      "mana": 105865,
+      "x": 19.2,
+      "y": -12.8
     }
   },
   {
     "grid_size": 50,
     "num_searches_factor": 3,
     "random_seed": 3,
-    "avg_time": 142.0,
-    "std_time": 33.0,
+    "avg_time": 77.66666666666667,
+    "std_time": 0.5773502691896257,
     "solution_info": {
       "grid_points_evaluated": 249847,
       "mana": 101967,
-      "x": 22.0,
+      "x": 22.2,
       "y": -45.0
     }
   },
@@ -445,77 +445,77 @@
     "grid_size": 50,
     "num_searches_factor": 3,
     "random_seed": 60,
-    "avg_time": 136.66666666666666,
-    "std_time": 11.846237095944574,
+    "avg_time": 73.0,
+    "std_time": 5.0,
     "solution_info": {
       "grid_points_evaluated": 249849,
       "mana": 113560,
-      "x": 19.0,
-      "y": 48.0
+      "x": 19.2,
+      "y": 48.8
     }
   },
   {
     "grid_size": 50,
     "num_searches_factor": 3,
-    "random_seed": 141,
-    "avg_time": 106.33333333333333,
-    "std_time": 6.110100926607787,
+    "random_seed": 90,
+    "avg_time": 78.33333333333333,
+    "std_time": 3.0550504633038935,
     "solution_info": {
-      "grid_points_evaluated": 249840,
-      "mana": 107800,
-      "x": 25.0,
-      "y": 23.0
+      "grid_points_evaluated": 249846,
+      "mana": 105865,
+      "x": 19.2,
+      "y": -12.8
     }
   },
   {
     "grid_size": 75,
     "num_searches_factor": 0.1,
     "random_seed": 3,
-    "avg_time": 72.0,
-    "std_time": 6.082762530298219,
+    "avg_time": 48.666666666666664,
+    "std_time": 1.5275252316519468,
     "solution_info": {
       "grid_points_evaluated": 223469,
       "mana": 121642,
-      "x": 37.0,
-      "y": -64.0
+      "x": 37.6,
+      "y": -64.6
     }
   },
   {
     "grid_size": 75,
     "num_searches_factor": 0.1,
     "random_seed": 60,
-    "avg_time": 67.66666666666667,
-    "std_time": 2.0816659994661326,
+    "avg_time": 47.333333333333336,
+    "std_time": 0.5773502691896257,
     "solution_info": {
       "grid_points_evaluated": 226066,
       "mana": 106802,
-      "x": 31.0,
+      "x": 31.4,
       "y": 73.0
     }
   },
   {
     "grid_size": 75,
     "num_searches_factor": 0.1,
-    "random_seed": 141,
-    "avg_time": 68.66666666666667,
-    "std_time": 4.041451884327381,
+    "random_seed": 90,
+    "avg_time": 49.333333333333336,
+    "std_time": 0.5773502691896257,
     "solution_info": {
-      "grid_points_evaluated": 224262,
-      "mana": 108209,
-      "x": 37.0,
-      "y": 36.0
+      "grid_points_evaluated": 227125,
+      "mana": 98521,
+      "x": 31.8,
+      "y": -14.0
     }
   },
   {
     "grid_size": 75,
     "num_searches_factor": 1,
     "random_seed": 3,
-    "avg_time": 202.0,
-    "std_time": 9.539392014169456,
+    "avg_time": 135.33333333333334,
+    "std_time": 8.144527815247077,
     "solution_info": {
       "grid_points_evaluated": 537889,
       "mana": 122002,
-      "x": 37.0,
+      "x": 37.4,
       "y": -65.0
     }
   },
@@ -523,38 +523,38 @@
     "grid_size": 75,
     "num_searches_factor": 1,
     "random_seed": 60,
-    "avg_time": 192.66666666666666,
-    "std_time": 1.5275252316519468,
+    "avg_time": 126.66666666666667,
+    "std_time": 2.8867513459481287,
     "solution_info": {
       "grid_points_evaluated": 537755,
       "mana": 107525,
-      "x": 31.0,
-      "y": 73.0
+      "x": 31.6,
+      "y": 73.4
     }
   },
   {
     "grid_size": 75,
     "num_searches_factor": 1,
-    "random_seed": 141,
-    "avg_time": 196.33333333333334,
-    "std_time": 13.576941236277534,
+    "random_seed": 90,
+    "avg_time": 133.33333333333334,
+    "std_time": 7.023769168568492,
     "solution_info": {
-      "grid_points_evaluated": 538001,
-      "mana": 108209,
-      "x": 37.0,
-      "y": 36.0
+      "grid_points_evaluated": 538239,
+      "mana": 98521,
+      "x": 31.8,
+      "y": -14.0
     }
   },
   {
     "grid_size": 75,
     "num_searches_factor": 3,
     "random_seed": 3,
-    "avg_time": 252.0,
-    "std_time": 9.643650760992955,
+    "avg_time": 182.0,
+    "std_time": 3.0,
     "solution_info": {
       "grid_points_evaluated": 562112,
       "mana": 122002,
-      "x": 37.0,
+      "x": 37.4,
       "y": -65.0
     }
   },
@@ -562,272 +562,272 @@
     "grid_size": 75,
     "num_searches_factor": 3,
     "random_seed": 60,
-    "avg_time": 241.66666666666666,
-    "std_time": 2.0816659994661326,
+    "avg_time": 172.66666666666666,
+    "std_time": 3.2145502536643185,
     "solution_info": {
       "grid_points_evaluated": 562145,
       "mana": 107525,
-      "x": 31.0,
-      "y": 73.0
+      "x": 31.6,
+      "y": 73.4
     }
   },
   {
     "grid_size": 75,
     "num_searches_factor": 3,
-    "random_seed": 141,
-    "avg_time": 253.33333333333334,
-    "std_time": 12.662279942148386,
+    "random_seed": 90,
+    "avg_time": 179.33333333333334,
+    "std_time": 13.012814197295423,
     "solution_info": {
-      "grid_points_evaluated": 562136,
-      "mana": 108209,
-      "x": 37.0,
-      "y": 36.0
+      "grid_points_evaluated": 562089,
+      "mana": 98521,
+      "x": 31.8,
+      "y": -14.0
     }
   },
   {
     "grid_size": 90,
     "num_searches_factor": 0.1,
     "random_seed": 3,
-    "avg_time": 99.66666666666667,
-    "std_time": 5.507570547286102,
+    "avg_time": 68.33333333333333,
+    "std_time": 1.5275252316519468,
     "solution_info": {
       "grid_points_evaluated": 328621,
       "mana": 128209,
       "x": 44.0,
-      "y": -76.0
+      "y": -76.4
     }
   },
   {
     "grid_size": 90,
     "num_searches_factor": 0.1,
     "random_seed": 60,
-    "avg_time": 98.0,
-    "std_time": 5.291502622129181,
+    "avg_time": 67.0,
+    "std_time": 2.6457513110645907,
     "solution_info": {
       "grid_points_evaluated": 329440,
       "mana": 118666,
-      "x": 38.0,
-      "y": 86.0
+      "x": 38.2,
+      "y": 86.4
     }
   },
   {
     "grid_size": 90,
     "num_searches_factor": 0.1,
-    "random_seed": 141,
-    "avg_time": 101.0,
-    "std_time": 4.0,
+    "random_seed": 90,
+    "avg_time": 69.0,
+    "std_time": 1.0,
     "solution_info": {
-      "grid_points_evaluated": 330210,
-      "mana": 110760,
-      "x": 46.0,
-      "y": 44.0
+      "grid_points_evaluated": 330271,
+      "mana": 107179,
+      "x": 40.8,
+      "y": -19.6
     }
   },
   {
     "grid_size": 90,
     "num_searches_factor": 1,
     "random_seed": 3,
-    "avg_time": 278.6666666666667,
-    "std_time": 3.511884584284246,
+    "avg_time": 197.33333333333334,
+    "std_time": 9.71253485622231,
     "solution_info": {
       "grid_points_evaluated": 776410,
       "mana": 128209,
       "x": 44.0,
-      "y": -76.0
+      "y": -76.4
     }
   },
   {
     "grid_size": 90,
     "num_searches_factor": 1,
     "random_seed": 60,
-    "avg_time": 278.0,
-    "std_time": 13.228756555322953,
+    "avg_time": 193.0,
+    "std_time": 11.269427669584644,
     "solution_info": {
       "grid_points_evaluated": 776564,
       "mana": 118666,
-      "x": 38.0,
-      "y": 86.0
+      "x": 38.2,
+      "y": 86.4
     }
   },
   {
     "grid_size": 90,
     "num_searches_factor": 1,
-    "random_seed": 141,
-    "avg_time": 281.3333333333333,
-    "std_time": 6.3508529610858835,
+    "random_seed": 90,
+    "avg_time": 198.66666666666666,
+    "std_time": 7.234178138070235,
     "solution_info": {
-      "grid_points_evaluated": 776857,
-      "mana": 110760,
-      "x": 46.0,
-      "y": 44.0
+      "grid_points_evaluated": 776190,
+      "mana": 107179,
+      "x": 40.8,
+      "y": -19.6
     }
   },
   {
     "grid_size": 90,
     "num_searches_factor": 3,
     "random_seed": 3,
-    "avg_time": 417.3333333333333,
-    "std_time": 76.39589866827494,
+    "avg_time": 246.0,
+    "std_time": 8.888194417315589,
     "solution_info": {
       "grid_points_evaluated": 809542,
       "mana": 128209,
       "x": 44.0,
-      "y": -76.0
+      "y": -76.4
     }
   },
   {
     "grid_size": 90,
     "num_searches_factor": 3,
     "random_seed": 60,
-    "avg_time": 343.6666666666667,
-    "std_time": 9.60902353693305,
+    "avg_time": 247.33333333333334,
+    "std_time": 4.725815626252609,
     "solution_info": {
       "grid_points_evaluated": 809547,
       "mana": 118666,
-      "x": 38.0,
-      "y": 86.0
+      "x": 38.2,
+      "y": 86.4
     }
   },
   {
     "grid_size": 90,
     "num_searches_factor": 3,
-    "random_seed": 141,
-    "avg_time": 342.3333333333333,
-    "std_time": 8.020806277010642,
+    "random_seed": 90,
+    "avg_time": 242.33333333333334,
+    "std_time": 1.1547005383792515,
     "solution_info": {
       "grid_points_evaluated": 809521,
-      "mana": 110760,
-      "x": 46.0,
-      "y": 44.0
+      "mana": 107179,
+      "x": 40.8,
+      "y": -19.6
     }
   },
   {
     "grid_size": 100,
     "num_searches_factor": 0.1,
     "random_seed": 3,
-    "avg_time": 173.66666666666666,
-    "std_time": 37.072002014098636,
+    "avg_time": 85.33333333333333,
+    "std_time": 6.8068592855540455,
     "solution_info": {
       "grid_points_evaluated": 405076,
       "mana": 113668,
-      "x": 47.0,
-      "y": -84.0
+      "x": 47.4,
+      "y": -84.2
     }
   },
   {
     "grid_size": 100,
     "num_searches_factor": 0.1,
     "random_seed": 60,
-    "avg_time": 133.33333333333334,
-    "std_time": 20.033305601755625,
+    "avg_time": 89.66666666666667,
+    "std_time": 10.016652800877813,
     "solution_info": {
       "grid_points_evaluated": 406827,
       "mana": 95752,
       "x": 44.0,
-      "y": 97.0
+      "y": 97.8
     }
   },
   {
     "grid_size": 100,
     "num_searches_factor": 0.1,
-    "random_seed": 141,
-    "avg_time": 114.33333333333333,
+    "random_seed": 90,
+    "avg_time": 80.66666666666667,
     "std_time": 1.1547005383792515,
     "solution_info": {
-      "grid_points_evaluated": 405339,
-      "mana": 118446,
-      "x": 44.0,
-      "y": 49.0
+      "grid_points_evaluated": 408896,
+      "mana": 119742,
+      "x": 47.4,
+      "y": -20.0
     }
   },
   {
     "grid_size": 100,
     "num_searches_factor": 1,
     "random_seed": 3,
-    "avg_time": 320.3333333333333,
-    "std_time": 5.131601439446884,
+    "avg_time": 235.33333333333334,
+    "std_time": 10.408329997330664,
     "solution_info": {
       "grid_points_evaluated": 959353,
       "mana": 113668,
-      "x": 47.0,
-      "y": -84.0
+      "x": 47.4,
+      "y": -84.2
     }
   },
   {
     "grid_size": 100,
     "num_searches_factor": 1,
     "random_seed": 60,
-    "avg_time": 331.0,
-    "std_time": 11.269427669584644,
+    "avg_time": 226.33333333333334,
+    "std_time": 1.1547005383792515,
     "solution_info": {
       "grid_points_evaluated": 958543,
       "mana": 95752,
       "x": 44.0,
-      "y": 97.0
+      "y": 97.8
     }
   },
   {
     "grid_size": 100,
     "num_searches_factor": 1,
-    "random_seed": 141,
-    "avg_time": 334.3333333333333,
-    "std_time": 10.016652800877813,
+    "random_seed": 90,
+    "avg_time": 229.66666666666666,
+    "std_time": 5.686240703077327,
     "solution_info": {
-      "grid_points_evaluated": 958206,
-      "mana": 118446,
-      "x": 44.0,
-      "y": 49.0
+      "grid_points_evaluated": 959283,
+      "mana": 120027,
+      "x": 47.0,
+      "y": -20.2
     }
   },
   {
     "grid_size": 100,
     "num_searches_factor": 3,
     "random_seed": 3,
-    "avg_time": 406.0,
-    "std_time": 10.535653752852738,
+    "avg_time": 339.0,
+    "std_time": 35.79106033634656,
     "solution_info": {
       "grid_points_evaluated": 999407,
       "mana": 113668,
-      "x": 47.0,
-      "y": -84.0
+      "x": 47.4,
+      "y": -84.2
     }
   },
   {
     "grid_size": 100,
     "num_searches_factor": 3,
     "random_seed": 60,
-    "avg_time": 413.6666666666667,
-    "std_time": 6.429100507328637,
+    "avg_time": 351.0,
+    "std_time": 22.11334438749598,
     "solution_info": {
       "grid_points_evaluated": 999428,
       "mana": 95752,
       "x": 44.0,
-      "y": 97.0
+      "y": 97.8
     }
   },
   {
     "grid_size": 100,
     "num_searches_factor": 3,
-    "random_seed": 141,
-    "avg_time": 413.0,
-    "std_time": 10.392304845413264,
+    "random_seed": 90,
+    "avg_time": 326.6666666666667,
+    "std_time": 28.676354952004157,
     "solution_info": {
-      "grid_points_evaluated": 999393,
-      "mana": 118446,
-      "x": 44.0,
-      "y": 49.0
+      "grid_points_evaluated": 999441,
+      "mana": 120027,
+      "x": 47.0,
+      "y": -20.2
     }
   },
   {
     "grid_size": 115,
     "num_searches_factor": 0.1,
     "random_seed": 3,
-    "avg_time": 154.0,
-    "std_time": 5.5677643628300215,
+    "avg_time": 112.66666666666667,
+    "std_time": 3.2145502536643185,
     "solution_info": {
       "grid_points_evaluated": 529562,
       "mana": 93172,
-      "x": 53.0,
+      "x": 53.8,
       "y": -97.0
     }
   },
@@ -835,623 +835,623 @@
     "grid_size": 115,
     "num_searches_factor": 0.1,
     "random_seed": 60,
-    "avg_time": 157.66666666666666,
-    "std_time": 2.8867513459481287,
+    "avg_time": 110.66666666666667,
+    "std_time": 6.3508529610858835,
     "solution_info": {
       "grid_points_evaluated": 529790,
       "mana": 108700,
-      "x": 50.0,
-      "y": 110.0
+      "x": 50.6,
+      "y": 110.4
     }
   },
   {
     "grid_size": 115,
     "num_searches_factor": 0.1,
-    "random_seed": 141,
-    "avg_time": 157.0,
-    "std_time": 1.0,
+    "random_seed": 90,
+    "avg_time": 107.33333333333333,
+    "std_time": 2.8867513459481287,
     "solution_info": {
-      "grid_points_evaluated": 531062,
-      "mana": 99519,
-      "x": 54.0,
-      "y": 55.0
+      "grid_points_evaluated": 529544,
+      "mana": 121958,
+      "x": 52.4,
+      "y": -22.4
     }
   },
   {
     "grid_size": 115,
     "num_searches_factor": 1,
     "random_seed": 3,
-    "avg_time": 477.3333333333333,
-    "std_time": 54.07710544521899,
+    "avg_time": 310.0,
+    "std_time": 4.0,
     "solution_info": {
       "grid_points_evaluated": 1265921,
       "mana": 94498,
-      "x": 53.0,
-      "y": -96.0
+      "x": 53.8,
+      "y": -96.6
     }
   },
   {
     "grid_size": 115,
     "num_searches_factor": 1,
     "random_seed": 60,
-    "avg_time": 473.3333333333333,
-    "std_time": 61.40304009846201,
+    "avg_time": 325.6666666666667,
+    "std_time": 15.307950004273378,
     "solution_info": {
       "grid_points_evaluated": 1265591,
       "mana": 109981,
-      "x": 50.0,
-      "y": 111.0
+      "x": 50.6,
+      "y": 111.4
     }
   },
   {
     "grid_size": 115,
     "num_searches_factor": 1,
-    "random_seed": 141,
-    "avg_time": 440.6666666666667,
-    "std_time": 23.75570107012911,
+    "random_seed": 90,
+    "avg_time": 307.6666666666667,
+    "std_time": 11.930353445448853,
     "solution_info": {
-      "grid_points_evaluated": 1265820,
-      "mana": 99519,
-      "x": 54.0,
-      "y": 55.0
+      "grid_points_evaluated": 1266085,
+      "mana": 122916,
+      "x": 52.8,
+      "y": -21.8
     }
   },
   {
     "grid_size": 115,
     "num_searches_factor": 3,
     "random_seed": 3,
-    "avg_time": 582.0,
-    "std_time": 28.61817604250837,
+    "avg_time": 450.0,
+    "std_time": 21.656407827707714,
     "solution_info": {
       "grid_points_evaluated": 1321602,
       "mana": 94498,
-      "x": 53.0,
-      "y": -96.0
+      "x": 53.8,
+      "y": -96.6
     }
   },
   {
     "grid_size": 115,
     "num_searches_factor": 3,
     "random_seed": 60,
-    "avg_time": 559.6666666666666,
-    "std_time": 8.504900548115382,
+    "avg_time": 452.0,
+    "std_time": 39.50949253027682,
     "solution_info": {
       "grid_points_evaluated": 1321733,
       "mana": 109981,
-      "x": 50.0,
-      "y": 111.0
+      "x": 50.6,
+      "y": 111.4
     }
   },
   {
     "grid_size": 115,
     "num_searches_factor": 3,
-    "random_seed": 141,
-    "avg_time": 569.6666666666666,
-    "std_time": 9.865765724632494,
+    "random_seed": 90,
+    "avg_time": 494.3333333333333,
+    "std_time": 61.27261487266015,
     "solution_info": {
-      "grid_points_evaluated": 1321721,
-      "mana": 99519,
-      "x": 54.0,
-      "y": 55.0
+      "grid_points_evaluated": 1321635,
+      "mana": 122916,
+      "x": 52.8,
+      "y": -21.8
     }
   },
   {
     "grid_size": 135,
     "num_searches_factor": 0.1,
     "random_seed": 3,
-    "avg_time": 214.0,
-    "std_time": 8.888194417315589,
+    "avg_time": 152.0,
+    "std_time": 2.0,
     "solution_info": {
       "grid_points_evaluated": 751317,
       "mana": 103984,
-      "x": 59.0,
-      "y": -119.0
+      "x": 59.4,
+      "y": -119.6
     }
   },
   {
     "grid_size": 135,
     "num_searches_factor": 0.1,
     "random_seed": 60,
-    "avg_time": 206.33333333333334,
-    "std_time": 6.110100926607787,
+    "avg_time": 156.33333333333334,
+    "std_time": 3.0550504633038935,
     "solution_info": {
       "grid_points_evaluated": 750950,
       "mana": 126261,
-      "x": 59.0,
-      "y": 130.0
+      "x": 59.8,
+      "y": 130.8
     }
   },
   {
     "grid_size": 135,
     "num_searches_factor": 0.1,
-    "random_seed": 141,
-    "avg_time": 214.66666666666666,
-    "std_time": 10.408329997330664,
+    "random_seed": 90,
+    "avg_time": 151.0,
+    "std_time": 1.0,
     "solution_info": {
-      "grid_points_evaluated": 751675,
-      "mana": 115182,
-      "x": 65.0,
-      "y": 66.0
+      "grid_points_evaluated": 756272,
+      "mana": 118722,
+      "x": 62.2,
+      "y": -27.8
     }
   },
   {
     "grid_size": 135,
     "num_searches_factor": 1,
     "random_seed": 3,
-    "avg_time": 590.0,
-    "std_time": 15.620499351813308,
+    "avg_time": 474.3333333333333,
+    "std_time": 8.504900548115382,
     "solution_info": {
       "grid_points_evaluated": 1744559,
       "mana": 103984,
-      "x": 59.0,
-      "y": -119.0
+      "x": 59.4,
+      "y": -119.6
     }
   },
   {
     "grid_size": 135,
     "num_searches_factor": 1,
     "random_seed": 60,
-    "avg_time": 579.6666666666666,
-    "std_time": 16.010413278030438,
+    "avg_time": 452.0,
+    "std_time": 3.4641016151377544,
     "solution_info": {
       "grid_points_evaluated": 1745168,
       "mana": 126261,
-      "x": 59.0,
-      "y": 130.0
+      "x": 59.8,
+      "y": 130.8
     }
   },
   {
     "grid_size": 135,
     "num_searches_factor": 1,
-    "random_seed": 141,
-    "avg_time": 596.0,
-    "std_time": 27.712812921102035,
+    "random_seed": 90,
+    "avg_time": 468.6666666666667,
+    "std_time": 31.085902485424697,
     "solution_info": {
-      "grid_points_evaluated": 1744859,
-      "mana": 115182,
-      "x": 65.0,
-      "y": 66.0
+      "grid_points_evaluated": 1745728,
+      "mana": 120861,
+      "x": 62.6,
+      "y": -27.2
     }
   },
   {
     "grid_size": 135,
     "num_searches_factor": 3,
     "random_seed": 3,
-    "avg_time": 783.3333333333334,
-    "std_time": 17.009801096230763,
+    "avg_time": 671.3333333333334,
+    "std_time": 40.5010287935175,
     "solution_info": {
       "grid_points_evaluated": 1821355,
       "mana": 103984,
-      "x": 59.0,
-      "y": -119.0
+      "x": 59.4,
+      "y": -119.6
     }
   },
   {
     "grid_size": 135,
     "num_searches_factor": 3,
     "random_seed": 60,
-    "avg_time": 788.6666666666666,
-    "std_time": 32.51666239535253,
+    "avg_time": 626.0,
+    "std_time": 16.3707055437449,
     "solution_info": {
       "grid_points_evaluated": 1821414,
       "mana": 126261,
-      "x": 59.0,
-      "y": 130.0
+      "x": 59.8,
+      "y": 130.8
     }
   },
   {
     "grid_size": 135,
     "num_searches_factor": 3,
-    "random_seed": 141,
-    "avg_time": 824.3333333333334,
-    "std_time": 10.785793124908958,
+    "random_seed": 90,
+    "avg_time": 621.0,
+    "std_time": 27.874719729532707,
     "solution_info": {
-      "grid_points_evaluated": 1821408,
-      "mana": 115182,
-      "x": 65.0,
-      "y": 66.0
+      "grid_points_evaluated": 1821354,
+      "mana": 120861,
+      "x": 62.6,
+      "y": -27.2
     }
   },
   {
     "grid_size": 150,
     "num_searches_factor": 0.1,
     "random_seed": 3,
-    "avg_time": 250.0,
-    "std_time": 2.0,
+    "avg_time": 188.0,
+    "std_time": 3.0,
     "solution_info": {
       "grid_points_evaluated": 923976,
       "mana": 115725,
-      "x": 69.0,
-      "y": -128.0
+      "x": 69.2,
+      "y": -128.8
     }
   },
   {
     "grid_size": 150,
     "num_searches_factor": 0.1,
     "random_seed": 60,
-    "avg_time": 261.6666666666667,
-    "std_time": 9.237604307034012,
+    "avg_time": 189.66666666666666,
+    "std_time": 1.1547005383792515,
     "solution_info": {
       "grid_points_evaluated": 921324,
       "mana": 105799,
-      "x": 69.0,
-      "y": 149.0
+      "x": 69.6,
+      "y": 149.6
     }
   },
   {
     "grid_size": 150,
     "num_searches_factor": 0.1,
-    "random_seed": 141,
-    "avg_time": 251.66666666666666,
-    "std_time": 15.50268793897798,
+    "random_seed": 90,
+    "avg_time": 182.33333333333334,
+    "std_time": 2.8867513459481287,
     "solution_info": {
-      "grid_points_evaluated": 918752,
-      "mana": 96861,
-      "x": 69.0,
-      "y": 73.0
+      "grid_points_evaluated": 925580,
+      "mana": 119652,
+      "x": 66.4,
+      "y": -32.8
     }
   },
   {
     "grid_size": 150,
     "num_searches_factor": 1,
     "random_seed": 3,
-    "avg_time": 771.0,
-    "std_time": 58.94913061275798,
+    "avg_time": 572.3333333333334,
+    "std_time": 30.2709982216202,
     "solution_info": {
       "grid_points_evaluated": 2151188,
       "mana": 115725,
-      "x": 69.0,
-      "y": -128.0
+      "x": 69.2,
+      "y": -128.8
     }
   },
   {
     "grid_size": 150,
     "num_searches_factor": 1,
     "random_seed": 60,
-    "avg_time": 753.0,
-    "std_time": 16.0,
+    "avg_time": 548.0,
+    "std_time": 12.288205727444508,
     "solution_info": {
       "grid_points_evaluated": 2151314,
       "mana": 110146,
-      "x": 69.0,
+      "x": 69.2,
       "y": 149.0
     }
   },
   {
     "grid_size": 150,
     "num_searches_factor": 1,
-    "random_seed": 141,
-    "avg_time": 741.6666666666666,
-    "std_time": 17.925772879665004,
+    "random_seed": 90,
+    "avg_time": 546.3333333333334,
+    "std_time": 16.441816606851365,
     "solution_info": {
-      "grid_points_evaluated": 2150826,
-      "mana": 96861,
-      "x": 69.0,
-      "y": 73.0
+      "grid_points_evaluated": 2150451,
+      "mana": 119652,
+      "x": 66.4,
+      "y": -32.8
     }
   },
   {
     "grid_size": 150,
     "num_searches_factor": 3,
     "random_seed": 3,
-    "avg_time": 1016.6666666666666,
-    "std_time": 19.42506971244462,
+    "avg_time": 764.0,
+    "std_time": 27.874719729532707,
     "solution_info": {
       "grid_points_evaluated": 2248413,
       "mana": 115725,
-      "x": 69.0,
-      "y": -128.0
+      "x": 69.2,
+      "y": -128.8
     }
   },
   {
     "grid_size": 150,
     "num_searches_factor": 3,
     "random_seed": 60,
-    "avg_time": 1006.6666666666666,
-    "std_time": 10.692676621563626,
+    "avg_time": 742.6666666666666,
+    "std_time": 20.55075018906447,
     "solution_info": {
       "grid_points_evaluated": 2248507,
       "mana": 110146,
-      "x": 69.0,
+      "x": 69.2,
       "y": 149.0
     }
   },
   {
     "grid_size": 150,
     "num_searches_factor": 3,
-    "random_seed": 141,
-    "avg_time": 1013.3333333333334,
-    "std_time": 8.962886439832502,
+    "random_seed": 90,
+    "avg_time": 715.0,
+    "std_time": 14.422205101855956,
     "solution_info": {
-      "grid_points_evaluated": 2248471,
-      "mana": 96861,
-      "x": 69.0,
-      "y": 73.0
+      "grid_points_evaluated": 2248460,
+      "mana": 119652,
+      "x": 66.4,
+      "y": -32.8
     }
   },
   {
     "grid_size": 185,
     "num_searches_factor": 0.1,
     "random_seed": 3,
-    "avg_time": 366.6666666666667,
-    "std_time": 10.692676621563626,
+    "avg_time": 288.0,
+    "std_time": 17.05872210923198,
     "solution_info": {
       "grid_points_evaluated": 1394968,
       "mana": 106289,
-      "x": 84.0,
-      "y": -158.0
+      "x": 84.8,
+      "y": -158.8
     }
   },
   {
     "grid_size": 185,
     "num_searches_factor": 0.1,
     "random_seed": 60,
-    "avg_time": 387.0,
-    "std_time": 23.57965224510319,
+    "avg_time": 279.0,
+    "std_time": 12.529964086141668,
     "solution_info": {
       "grid_points_evaluated": 1398610,
       "mana": 98276,
-      "x": 84.0,
-      "y": 180.0
+      "x": 84.6,
+      "y": 180.4
     }
   },
   {
     "grid_size": 185,
     "num_searches_factor": 0.1,
-    "random_seed": 141,
-    "avg_time": 382.0,
-    "std_time": 7.810249675906654,
+    "random_seed": 90,
+    "avg_time": 275.6666666666667,
+    "std_time": 8.621678104251709,
     "solution_info": {
-      "grid_points_evaluated": 1403312,
-      "mana": 106588,
-      "x": 91.0,
-      "y": 92.0
+      "grid_points_evaluated": 1400211,
+      "mana": 98758,
+      "x": 81.8,
+      "y": -38.6
     }
   },
   {
     "grid_size": 185,
     "num_searches_factor": 1,
     "random_seed": 3,
-    "avg_time": 1131.0,
-    "std_time": 9.539392014169456,
+    "avg_time": 852.0,
+    "std_time": 20.42057785666214,
     "solution_info": {
       "grid_points_evaluated": 3276447,
       "mana": 107110,
-      "x": 84.0,
-      "y": -158.0
+      "x": 84.8,
+      "y": -158.2
     }
   },
   {
     "grid_size": 185,
     "num_searches_factor": 1,
     "random_seed": 60,
-    "avg_time": 1148.0,
-    "std_time": 32.90896534380867,
+    "avg_time": 833.6666666666666,
+    "std_time": 9.29157324317757,
     "solution_info": {
       "grid_points_evaluated": 3276817,
       "mana": 98276,
-      "x": 84.0,
-      "y": 180.0
+      "x": 84.6,
+      "y": 180.4
     }
   },
   {
     "grid_size": 185,
     "num_searches_factor": 1,
-    "random_seed": 141,
-    "avg_time": 1132.0,
-    "std_time": 36.29049462324811,
+    "random_seed": 90,
+    "avg_time": 829.3333333333334,
+    "std_time": 29.399546481762833,
     "solution_info": {
-      "grid_points_evaluated": 3277241,
-      "mana": 106588,
-      "x": 91.0,
-      "y": 92.0
+      "grid_points_evaluated": 3276765,
+      "mana": 98758,
+      "x": 81.8,
+      "y": -38.6
     }
   },
   {
     "grid_size": 185,
     "num_searches_factor": 3,
     "random_seed": 3,
-    "avg_time": 1597.0,
-    "std_time": 41.32795663954365,
+    "avg_time": 1145.0,
+    "std_time": 49.122296363260546,
     "solution_info": {
       "grid_points_evaluated": 3420323,
       "mana": 107110,
-      "x": 84.0,
-      "y": -158.0
+      "x": 84.8,
+      "y": -158.2
     }
   },
   {
     "grid_size": 185,
     "num_searches_factor": 3,
     "random_seed": 60,
-    "avg_time": 1581.6666666666667,
-    "std_time": 43.14317249963583,
+    "avg_time": 1138.0,
+    "std_time": 35.04283093587046,
     "solution_info": {
       "grid_points_evaluated": 3420270,
       "mana": 98276,
-      "x": 84.0,
-      "y": 180.0
+      "x": 84.6,
+      "y": 180.4
     }
   },
   {
     "grid_size": 185,
     "num_searches_factor": 3,
-    "random_seed": 141,
-    "avg_time": 1664.3333333333333,
-    "std_time": 77.79674371934428,
+    "random_seed": 90,
+    "avg_time": 1123.3333333333333,
+    "std_time": 36.0185137579736,
     "solution_info": {
-      "grid_points_evaluated": 3420467,
-      "mana": 106588,
-      "x": 91.0,
-      "y": 92.0
+      "grid_points_evaluated": 3420309,
+      "mana": 98758,
+      "x": 81.8,
+      "y": -38.6
     }
   },
   {
     "grid_size": 200,
     "num_searches_factor": 0.1,
     "random_seed": 3,
-    "avg_time": 457.3333333333333,
-    "std_time": 18.036999011291577,
+    "avg_time": 316.3333333333333,
+    "std_time": 6.8068592855540455,
     "solution_info": {
       "grid_points_evaluated": 1613772,
       "mana": 101961,
-      "x": 91.0,
-      "y": -171.0
+      "x": 91.2,
+      "y": -171.6
     }
   },
   {
     "grid_size": 200,
     "num_searches_factor": 0.1,
     "random_seed": 60,
-    "avg_time": 437.3333333333333,
-    "std_time": 3.7859388972001824,
+    "avg_time": 322.3333333333333,
+    "std_time": 5.507570547286102,
     "solution_info": {
       "grid_points_evaluated": 1617887,
       "mana": 116685,
-      "x": 91.0,
+      "x": 91.2,
       "y": 193.0
     }
   },
   {
     "grid_size": 200,
     "num_searches_factor": 0.1,
-    "random_seed": 141,
-    "avg_time": 449.3333333333333,
-    "std_time": 8.962886439832502,
+    "random_seed": 90,
+    "avg_time": 333.3333333333333,
+    "std_time": 11.150485789118488,
     "solution_info": {
-      "grid_points_evaluated": 1613356,
-      "mana": 120511,
-      "x": 94.0,
-      "y": 97.0
+      "grid_points_evaluated": 1616543,
+      "mana": 97105,
+      "x": 88.2,
+      "y": -40.4
     }
   },
   {
     "grid_size": 200,
     "num_searches_factor": 1,
     "random_seed": 3,
-    "avg_time": 1362.6666666666667,
-    "std_time": 58.799092963525666,
+    "avg_time": 1016.6666666666666,
+    "std_time": 41.968241961432376,
     "solution_info": {
       "grid_points_evaluated": 3825746,
       "mana": 101961,
-      "x": 91.0,
-      "y": -171.0
+      "x": 91.2,
+      "y": -171.6
     }
   },
   {
     "grid_size": 200,
     "num_searches_factor": 1,
     "random_seed": 60,
-    "avg_time": 1345.3333333333333,
-    "std_time": 23.09401076758503,
+    "avg_time": 1950.0,
+    "std_time": 1696.5473762910365,
     "solution_info": {
       "grid_points_evaluated": 3826260,
       "mana": 118811,
-      "x": 91.0,
-      "y": 193.0
+      "x": 91.2,
+      "y": 193.8
     }
   },
   {
     "grid_size": 200,
     "num_searches_factor": 1,
-    "random_seed": 141,
-    "avg_time": 1341.0,
-    "std_time": 36.38681079732051,
+    "random_seed": 90,
+    "avg_time": 958.3333333333334,
+    "std_time": 3.511884584284246,
     "solution_info": {
-      "grid_points_evaluated": 3827327,
-      "mana": 120511,
-      "x": 94.0,
-      "y": 97.0
+      "grid_points_evaluated": 3827889,
+      "mana": 97105,
+      "x": 88.2,
+      "y": -40.4
     }
   },
   {
     "grid_size": 200,
     "num_searches_factor": 3,
     "random_seed": 3,
-    "avg_time": 1899.0,
-    "std_time": 67.08949247087803,
+    "avg_time": 1302.6666666666667,
+    "std_time": 39.0042732701602,
     "solution_info": {
       "grid_points_evaluated": 3997500,
       "mana": 101961,
-      "x": 91.0,
-      "y": -171.0
+      "x": 91.2,
+      "y": -171.6
     }
   },
   {
     "grid_size": 200,
     "num_searches_factor": 3,
     "random_seed": 60,
-    "avg_time": 1843.3333333333333,
-    "std_time": 45.62163229580166,
+    "avg_time": 1315.0,
+    "std_time": 19.974984355438178,
     "solution_info": {
       "grid_points_evaluated": 3997475,
       "mana": 118811,
-      "x": 91.0,
-      "y": 193.0
+      "x": 91.2,
+      "y": 193.8
     }
   },
   {
     "grid_size": 200,
     "num_searches_factor": 3,
-    "random_seed": 141,
-    "avg_time": 1863.0,
-    "std_time": 15.0,
+    "random_seed": 90,
+    "avg_time": 1319.6666666666667,
+    "std_time": 28.53652630109932,
     "solution_info": {
-      "grid_points_evaluated": 3997519,
-      "mana": 120511,
-      "x": 94.0,
-      "y": 97.0
+      "grid_points_evaluated": 3997614,
+      "mana": 97105,
+      "x": 88.2,
+      "y": -40.4
     }
   },
   {
     "grid_size": 225,
     "num_searches_factor": 0.1,
     "random_seed": 3,
-    "avg_time": 544.0,
-    "std_time": 18.193405398660254,
+    "avg_time": 424.0,
+    "std_time": 10.0,
     "solution_info": {
       "grid_points_evaluated": 2051864,
       "mana": 119692,
       "x": 104.0,
-      "y": -195.0
+      "y": -195.2
     }
   },
   {
     "grid_size": 225,
     "num_searches_factor": 0.1,
     "random_seed": 60,
-    "avg_time": 578.3333333333334,
-    "std_time": 48.6449723335653,
+    "avg_time": 445.0,
+    "std_time": 16.46207763315433,
     "solution_info": {
       "grid_points_evaluated": 2064064,
       "mana": 106574,
-      "x": 103.0,
-      "y": 218.0
+      "x": 103.6,
+      "y": 218.4
     }
   },
   {
     "grid_size": 225,
     "num_searches_factor": 0.1,
-    "random_seed": 141,
-    "avg_time": 556.6666666666666,
-    "std_time": 7.505553499465135,
+    "random_seed": 90,
+    "avg_time": 418.0,
+    "std_time": 11.135528725660043,
     "solution_info": {
-      "grid_points_evaluated": 2057687,
-      "mana": 123729,
-      "x": 107.0,
-      "y": 111.0
+      "grid_points_evaluated": 2062256,
+      "mana": 122343,
+      "x": 103.2,
+      "y": -45.0
     }
   },
   {
     "grid_size": 225,
     "num_searches_factor": 1,
     "random_seed": 3,
-    "avg_time": 1740.0,
-    "std_time": 30.512292604784715,
+    "avg_time": 1337.3333333333333,
+    "std_time": 16.772994167212165,
     "solution_info": {
       "grid_points_evaluated": 4851651,
       "mana": 120606,
-      "x": 103.0,
+      "x": 103.6,
       "y": -195.0
     }
   },
@@ -1459,38 +1459,38 @@
     "grid_size": 225,
     "num_searches_factor": 1,
     "random_seed": 60,
-    "avg_time": 1886.0,
-    "std_time": 233.51445351412406,
+    "avg_time": 1213.6666666666667,
+    "std_time": 18.502252115170556,
     "solution_info": {
       "grid_points_evaluated": 4849923,
       "mana": 106574,
-      "x": 103.0,
-      "y": 218.0
+      "x": 103.6,
+      "y": 218.4
     }
   },
   {
     "grid_size": 225,
     "num_searches_factor": 1,
-    "random_seed": 141,
-    "avg_time": 1752.6666666666667,
-    "std_time": 21.07921567168317,
+    "random_seed": 90,
+    "avg_time": 1246.3333333333333,
+    "std_time": 26.388128644019705,
     "solution_info": {
-      "grid_points_evaluated": 4851133,
-      "mana": 123729,
-      "x": 107.0,
-      "y": 111.0
+      "grid_points_evaluated": 4851602,
+      "mana": 123157,
+      "x": 103.4,
+      "y": -45.4
     }
   },
   {
     "grid_size": 225,
     "num_searches_factor": 3,
     "random_seed": 3,
-    "avg_time": 2337.0,
-    "std_time": 31.22498999199199,
+    "avg_time": 1785.0,
+    "std_time": 69.19537556802477,
     "solution_info": {
       "grid_points_evaluated": 5059583,
       "mana": 120606,
-      "x": 103.0,
+      "x": 103.6,
       "y": -195.0
     }
   },
@@ -1498,260 +1498,260 @@
     "grid_size": 225,
     "num_searches_factor": 3,
     "random_seed": 60,
-    "avg_time": 2322.6666666666665,
-    "std_time": 8.962886439832502,
+    "avg_time": 1707.0,
+    "std_time": 5.5677643628300215,
     "solution_info": {
       "grid_points_evaluated": 5059623,
       "mana": 106574,
-      "x": 103.0,
-      "y": 218.0
+      "x": 103.6,
+      "y": 218.4
     }
   },
   {
     "grid_size": 225,
     "num_searches_factor": 3,
-    "random_seed": 141,
-    "avg_time": 2333.3333333333335,
-    "std_time": 15.01110699893027,
+    "random_seed": 90,
+    "avg_time": 1841.6666666666667,
+    "std_time": 98.2768199187038,
     "solution_info": {
-      "grid_points_evaluated": 5059625,
-      "mana": 123729,
-      "x": 107.0,
-      "y": 111.0
+      "grid_points_evaluated": 5059748,
+      "mana": 123157,
+      "x": 103.4,
+      "y": -45.4
     }
   },
   {
     "grid_size": 275,
     "num_searches_factor": 0.1,
     "random_seed": 3,
-    "avg_time": 876.3333333333334,
-    "std_time": 17.616280348965084,
+    "avg_time": 643.0,
+    "std_time": 12.165525060596439,
     "solution_info": {
       "grid_points_evaluated": 3097142,
       "mana": 99567,
-      "x": 128.0,
-      "y": -234.0
+      "x": 128.2,
+      "y": -234.6
     }
   },
   {
     "grid_size": 275,
     "num_searches_factor": 0.1,
     "random_seed": 60,
-    "avg_time": 850.6666666666666,
-    "std_time": 24.78574859336174,
+    "avg_time": 618.3333333333334,
+    "std_time": 21.501937897160186,
     "solution_info": {
       "grid_points_evaluated": 3090121,
       "mana": 97465,
-      "x": 128.0,
-      "y": 268.0
+      "x": 128.4,
+      "y": 268.8
     }
   },
   {
     "grid_size": 275,
     "num_searches_factor": 0.1,
-    "random_seed": 141,
-    "avg_time": 846.6666666666666,
-    "std_time": 11.590225767142472,
+    "random_seed": 90,
+    "avg_time": 1592.3333333333333,
+    "std_time": 1693.6659450237917,
     "solution_info": {
-      "grid_points_evaluated": 3087730,
-      "mana": 99993,
-      "x": 132.0,
-      "y": 135.0
+      "grid_points_evaluated": 3094216,
+      "mana": 126390,
+      "x": 123.0,
+      "y": -58.2
     }
   },
   {
     "grid_size": 275,
     "num_searches_factor": 1,
     "random_seed": 3,
-    "avg_time": 2600.6666666666665,
-    "std_time": 60.210741012989814,
+    "avg_time": 1840.0,
+    "std_time": 29.597297173897484,
     "solution_info": {
       "grid_points_evaluated": 7234737,
       "mana": 99567,
-      "x": 128.0,
-      "y": -234.0
+      "x": 128.2,
+      "y": -234.6
     }
   },
   {
     "grid_size": 275,
     "num_searches_factor": 1,
     "random_seed": 60,
-    "avg_time": 2535.6666666666665,
-    "std_time": 25.69695182961071,
+    "avg_time": 1832.3333333333333,
+    "std_time": 20.404247923737188,
     "solution_info": {
       "grid_points_evaluated": 7236154,
       "mana": 97465,
-      "x": 128.0,
-      "y": 268.0
+      "x": 128.4,
+      "y": 268.8
     }
   },
   {
     "grid_size": 275,
     "num_searches_factor": 1,
-    "random_seed": 141,
-    "avg_time": 2555.0,
-    "std_time": 13.114877048604,
+    "random_seed": 90,
+    "avg_time": 1908.6666666666667,
+    "std_time": 30.03886371574886,
     "solution_info": {
-      "grid_points_evaluated": 7231912,
-      "mana": 99993,
-      "x": 132.0,
-      "y": 135.0
+      "grid_points_evaluated": 7235561,
+      "mana": 126656,
+      "x": 122.6,
+      "y": -58.2
     }
   },
   {
     "grid_size": 275,
     "num_searches_factor": 3,
     "random_seed": 3,
-    "avg_time": 3339.3333333333335,
-    "std_time": 9.237604307034012,
+    "avg_time": 3747.0,
+    "std_time": 1718.4740323903645,
     "solution_info": {
       "grid_points_evaluated": 7557936,
       "mana": 99567,
-      "x": 128.0,
-      "y": -234.0
+      "x": 128.2,
+      "y": -234.6
     }
   },
   {
     "grid_size": 275,
     "num_searches_factor": 3,
     "random_seed": 60,
-    "avg_time": 3314.6666666666665,
-    "std_time": 18.502252115170556,
+    "avg_time": 3685.6666666666665,
+    "std_time": 1712.4562281510537,
     "solution_info": {
       "grid_points_evaluated": 7557846,
       "mana": 97465,
-      "x": 128.0,
-      "y": 268.0
+      "x": 128.4,
+      "y": 268.8
     }
   },
   {
     "grid_size": 275,
     "num_searches_factor": 3,
-    "random_seed": 141,
-    "avg_time": 3397.0,
-    "std_time": 68.02205524680947,
+    "random_seed": 90,
+    "avg_time": 2737.6666666666665,
+    "std_time": 92.74337352788787,
     "solution_info": {
-      "grid_points_evaluated": 7557776,
-      "mana": 99993,
-      "x": 132.0,
-      "y": 135.0
+      "grid_points_evaluated": 7557692,
+      "mana": 126656,
+      "x": 122.6,
+      "y": -58.2
     }
   },
   {
     "grid_size": 315,
     "num_searches_factor": 0.1,
     "random_seed": 3,
-    "avg_time": 1093.6666666666667,
-    "std_time": 30.74627348693388,
+    "avg_time": 819.0,
+    "std_time": 19.28730152198591,
     "solution_info": {
       "grid_points_evaluated": 4033654,
       "mana": 117606,
-      "x": 147.0,
-      "y": -271.0
+      "x": 147.6,
+      "y": -271.2
     }
   },
   {
     "grid_size": 315,
     "num_searches_factor": 0.1,
     "random_seed": 60,
-    "avg_time": 1118.6666666666667,
-    "std_time": 16.19670748434179,
+    "avg_time": 832.3333333333334,
+    "std_time": 42.899106439800505,
     "solution_info": {
       "grid_points_evaluated": 4038314,
       "mana": 106202,
       "x": 142.0,
-      "y": 306.0
+      "y": 306.6
     }
   },
   {
     "grid_size": 315,
     "num_searches_factor": 0.1,
-    "random_seed": 141,
-    "avg_time": 1109.6666666666667,
-    "std_time": 4.932882862316247,
+    "random_seed": 90,
+    "avg_time": 833.0,
+    "std_time": 37.5099986670221,
     "solution_info": {
-      "grid_points_evaluated": 4047403,
-      "mana": 106998,
-      "x": 154.0,
-      "y": 155.0
+      "grid_points_evaluated": 4044472,
+      "mana": 94836,
+      "x": 138.8,
+      "y": -64.6
     }
   },
   {
     "grid_size": 315,
     "num_searches_factor": 1,
     "random_seed": 3,
-    "avg_time": 3174.6666666666665,
-    "std_time": 63.67364708679199,
+    "avg_time": 2436.0,
+    "std_time": 18.35755975068582,
     "solution_info": {
       "grid_points_evaluated": 9497725,
       "mana": 117606,
-      "x": 147.0,
-      "y": -271.0
+      "x": 147.6,
+      "y": -271.2
     }
   },
   {
     "grid_size": 315,
     "num_searches_factor": 1,
     "random_seed": 60,
-    "avg_time": 3132.0,
-    "std_time": 2.0,
+    "avg_time": 2474.0,
+    "std_time": 22.715633383201094,
     "solution_info": {
       "grid_points_evaluated": 9498557,
       "mana": 106202,
       "x": 142.0,
-      "y": 306.0
+      "y": 306.6
     }
   },
   {
     "grid_size": 315,
     "num_searches_factor": 1,
-    "random_seed": 141,
-    "avg_time": 3195.6666666666665,
-    "std_time": 56.86240703077327,
+    "random_seed": 90,
+    "avg_time": 2516.0,
+    "std_time": 43.2087954009366,
     "solution_info": {
-      "grid_points_evaluated": 9500482,
-      "mana": 106998,
-      "x": 154.0,
-      "y": 155.0
+      "grid_points_evaluated": 9500178,
+      "mana": 95145,
+      "x": 138.4,
+      "y": -64.6
     }
   },
   {
     "grid_size": 315,
     "num_searches_factor": 3,
     "random_seed": 3,
-    "avg_time": 4644.333333333333,
-    "std_time": 21.73323108360405,
+    "avg_time": 4525.0,
+    "std_time": 1636.910199125169,
     "solution_info": {
       "grid_points_evaluated": 9916415,
       "mana": 117606,
-      "x": 147.0,
-      "y": -271.0
+      "x": 147.6,
+      "y": -271.2
     }
   },
   {
     "grid_size": 315,
     "num_searches_factor": 3,
     "random_seed": 60,
-    "avg_time": 4670.333333333333,
-    "std_time": 34.35597958628648,
+    "avg_time": 3507.6666666666665,
+    "std_time": 80.56260505553016,
     "solution_info": {
       "grid_points_evaluated": 9916552,
       "mana": 106202,
       "x": 142.0,
-      "y": 306.0
+      "y": 306.6
     }
   },
   {
     "grid_size": 315,
     "num_searches_factor": 3,
-    "random_seed": 141,
-    "avg_time": 4726.333333333333,
-    "std_time": 41.78915329763614,
+    "random_seed": 90,
+    "avg_time": 4391.0,
+    "std_time": 1713.1526493573188,
     "solution_info": {
-      "grid_points_evaluated": 9916660,
-      "mana": 106998,
-      "x": 154.0,
-      "y": 155.0
+      "grid_points_evaluated": 9916299,
+      "mana": 95145,
+      "x": 138.4,
+      "y": -64.6
     }
   }
 ]
